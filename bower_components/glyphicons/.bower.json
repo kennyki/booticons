@@ -1,0 +1,14 @@
+{
+  "name": "glyphicons",
+  "_cacheHeaders": {
+    "ETag": "\"fc4a8a58a8afd9d1967bd9641cbff1c8fbe4fdbb\"",
+    "Content-Length": "4404",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:fc4a8a58a",
+  "main": "index.yml",
+  "_source": "https://raw.githubusercontent.com/twbs/bootstrap/master/docs/_data/glyphicons.yml",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/twbs/bootstrap/master/docs/_data/glyphicons.yml",
+  "_direct": true
+}

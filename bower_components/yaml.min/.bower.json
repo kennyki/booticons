@@ -1,0 +1,14 @@
+{
+  "name": "yaml.min",
+  "_cacheHeaders": {
+    "ETag": "\"728ef1ba8ff3b180be7128aaaf530db7e9045cb8\"",
+    "Content-Length": "29509",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:728ef1ba8",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/jeremyfa/yaml.js/develop/dist/yaml.min.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/jeremyfa/yaml.js/develop/dist/yaml.min.js",
+  "_direct": true
+}
