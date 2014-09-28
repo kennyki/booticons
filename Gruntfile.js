@@ -6,6 +6,11 @@ var https = require("https");
 module.exports = function(grunt) {
 
   grunt.initConfig({
+    "exec": {
+      "gh-pages": {
+        command: "git subtree push --prefix web origin gh-pages"
+      }
+    },
     "booticons": {
       main: {
         resources: {
@@ -118,6 +123,9 @@ module.exports = function(grunt) {
 
   });
 
+  grunt.loadNpmTasks("grunt-exec");
+
   grunt.registerTask("default", ["booticons"]);
+  grunt.registerTask("publish", ["exec:gh-pages"]);
 
 };

@@ -137,7 +137,7 @@
       collection: iconsFilter.filtered
     });
 
-    $("#icon-list").append(listView.render().el);
+    $("#icon-list").empty().append(listView.render().el);
 
   });
 

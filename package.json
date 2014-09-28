@@ -26,9 +26,9 @@
   "homepage": "https://github.com/kennyki/booticons",
   "devDependencies": {
     "grunt": "~0.4.1",
+    "grunt-exec": "^0.4.6",
     "q": "^1.0.1",
     "yamljs": "^0.2.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
