@@ -1,0 +1,34 @@
+{
+  "name": "booticons",
+  "version": "0.1.0",
+  "description": "A portal to search web icons (glyphicons and fontawesome) easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennyki/booticons.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "fontawesome",
+    "icons",
+    "search",
+    "glyphicons",
+    "booticons"
+  ],
+  "author": "Kenny Ki <knyki.12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennyki/booticons/issues"
+  },
+  "homepage": "https://github.com/kennyki/booticons",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "q": "^1.0.1",
+    "yamljs": "^0.2.0"
+  },
+  "dependencies": {
+  }
+}

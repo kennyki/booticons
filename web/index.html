@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Find Bootstrap Glyphicons or Font Awesome Icons</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+          <div id="search-form" class="well well-sm">
+            <input name="term" type="text" class="form-control" placeholder="Click or press / to search">
+          </div>
+          <div id="icon-list"></div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/template" id="icon-list-template">
+      <% 
+        var resultsCount = models.length;
+        if (resultsCount == 0) { %>
+
+        <i class="text-warning">No icons found. Try refine your search term.</i>
+
+      <% } else { %>
+
+        <i class="text-success">Found <%= resultsCount %> icons.</i>
+
+        <% _.each(models, function(icon) { %>
+
+          <div class="media">
+            <div class="pull-left">
+              <span class="<%= icon.clazz %>"></span>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading"><%= icon.id %></h4>
+              <pre><%- "<span class='" + icon.clazz + "'></span>" %></pre>
+              <% _.each(icon.__keywords, function(keyword) { %>
+                <span class="label label-info"><%= keyword %></span>
+              <% }); %>
+            </div>
+          </div>
+
+        <% }); %>
+      <% } %>
+    </script>
+
+    <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.7.0/underscore-min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.2/backbone-min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.5.5/lunr.min.js"></script>
+    <script src="vendor/yaml.min/index.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

@@ -5,7 +5,7 @@
     "Kenny Ki <knyki.12@gmail.com>"
   ],
   "description": "A portal to search web icons (glyphicons and fontawesome) easily",
-  "main": "index.js",
+  "main": "web/index.js",
   "keywords": [
     "booticons",
     "icons",
@@ -24,8 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "glyphicons": "https://raw.githubusercontent.com/twbs/bootstrap/master/docs/_data/glyphicons.yml",
-    "icons": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/src/icons.yml",
     "yaml.min": "https://raw.githubusercontent.com/jeremyfa/yaml.js/develop/dist/yaml.min.js"
   }
 }

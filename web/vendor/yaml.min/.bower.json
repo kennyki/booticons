@@ -9,6 +9,5 @@
   "main": "index.js",
   "_source": "https://raw.githubusercontent.com/jeremyfa/yaml.js/develop/dist/yaml.min.js",
   "_target": "*",
-  "_originalSource": "https://raw.githubusercontent.com/jeremyfa/yaml.js/develop/dist/yaml.min.js",
-  "_direct": true
+  "_originalSource": "https://raw.githubusercontent.com/jeremyfa/yaml.js/develop/dist/yaml.min.js"
 }
