@@ -2,1002 +2,1202 @@
   id: glyphicon-asterisk
   source: glyphicons
   clazz: 'glyphicon glyphicon-asterisk'
-  keywords: 'wildcard,multiply,math,operator'
+  keywords: 'star,character,grapheme,graphic symbol,wildcard,multiply,math,operator'
+  noun: asterisk
 -
   id: glyphicon-plus
   source: glyphicons
   clazz: 'glyphicon glyphicon-plus'
-  keywords: 'math,operator,positive'
+  keywords: 'asset,quality,math,operator,positive'
+  noun: plus
 -
   id: glyphicon-euro
   source: glyphicons
   clazz: 'glyphicon glyphicon-euro'
-  keywords: 'currency,money,sign'
+  keywords: 'monetary unit,currency,money,sign'
+  noun: euro
 -
   id: glyphicon-minus
   source: glyphicons
   clazz: 'glyphicon glyphicon-minus'
-  keywords: 'math,operator,negative'
+  keywords: 'subtraction,arithmetic operation,math,operator,negative'
+  noun: minus
 -
   id: glyphicon-cloud
   source: glyphicons
   clazz: 'glyphicon glyphicon-cloud'
-  keywords: ''
+  keywords: 'physical phenomenon'
+  noun: cloud
 -
   id: glyphicon-envelope
   source: glyphicons
   clazz: 'glyphicon glyphicon-envelope'
-  keywords: 'letter,mail,email'
+  keywords: 'container,letter,mail,email'
+  noun: envelope
 -
   id: glyphicon-pencil
   source: glyphicons
   clazz: 'glyphicon glyphicon-pencil'
-  keywords: 'edit,write'
+  keywords: 'writing implement,edit,write'
+  noun: pencil
 -
   id: glyphicon-glass
   source: glyphicons
   clazz: 'glyphicon glyphicon-glass'
-  keywords: 'tempered,wine,drink'
+  keywords: 'solid,tempered,wine,drink'
+  noun: glass
 -
   id: glyphicon-music
   source: glyphicons
   clazz: 'glyphicon glyphicon-music'
-  keywords: 'sound,lyric,voice'
+  keywords: 'auditory communication,sound,lyric,voice'
+  noun: music
 -
   id: glyphicon-search
   source: glyphicons
   clazz: 'glyphicon glyphicon-search'
-  keywords: 'magnify,magnifier,find,look'
+  keywords: 'hunt,hunting,activity,magnify,magnifier,find,look'
+  noun: search
 -
   id: glyphicon-heart
   source: glyphicons
   clazz: 'glyphicon glyphicon-heart'
-  keywords: 'love,organ,kind'
+  keywords: 'bosom,intuition,hunch,suspicion,love,organ,kind'
+  noun: heart
 -
   id: glyphicon-star
   source: glyphicons
   clazz: 'glyphicon glyphicon-star'
-  keywords: 'favourite,bookmark,famous,popular'
+  keywords: 'celestial body,heavenly body,favourite,bookmark,famous,popular'
+  noun: star
 -
   id: glyphicon-star-empty
   source: glyphicons
   clazz: 'glyphicon glyphicon-star-empty'
-  keywords: 'favourite,bookmark,famous,popular'
+  keywords: 'celestial body,heavenly body,favourite,bookmark,famous,popular'
+  noun: star
 -
   id: glyphicon-user
   source: glyphicons
   clazz: 'glyphicon glyphicon-user'
-  keywords: 'human,avatar'
+  keywords: 'person,individual,someone,somebody,mortal,soul,human,avatar'
+  noun: user
 -
   id: glyphicon-film
   source: glyphicons
   clazz: 'glyphicon glyphicon-film'
-  keywords: 'movie,show'
+  keywords: 'movie,picture,moving picture,moving-picture show,motion picture,motion-picture show,picture show,pic,flick,show'
+  noun: film
 -
   id: glyphicon-th-large
   source: glyphicons
   clazz: 'glyphicon glyphicon-th-large'
   keywords: 'grid,view'
+  noun: th
 -
   id: glyphicon-th
   source: glyphicons
   clazz: 'glyphicon glyphicon-th'
   keywords: 'grid,view'
+  noun: th
 -
   id: glyphicon-th-list
   source: glyphicons
   clazz: 'glyphicon glyphicon-th-list'
-  keywords: 'list,view'
+  keywords: 'grid,view'
+  noun: th
 -
   id: glyphicon-ok
   source: glyphicons
   clazz: 'glyphicon glyphicon-ok'
-  keywords: 'yes,tick,good'
+  keywords: 'yes,tick,good,check'
+  noun: ok
 -
   id: glyphicon-remove
   source: glyphicons
   clazz: 'glyphicon glyphicon-remove'
-  keywords: 'delete,erase,destroy,terminate'
+  keywords: 'distance,delete,erase,destroy,terminate'
+  noun: remove
 -
   id: glyphicon-zoom-in
   source: glyphicons
   clazz: 'glyphicon glyphicon-zoom-in'
-  keywords: 'magify,magnifier'
+  keywords: 'rapid climb,rapid growth,rise,rising,ascent,ascension,magify,magnifier'
+  noun: zoom
 -
   id: glyphicon-zoom-out
   source: glyphicons
   clazz: 'glyphicon glyphicon-zoom-out'
-  keywords: 'magify,magnifier'
+  keywords: 'rapid climb,rapid growth,rise,rising,ascent,ascension,magify,magnifier'
+  noun: zoom
 -
   id: glyphicon-off
   source: glyphicons
   clazz: 'glyphicon glyphicon-off'
   keywords: 'shut,power,close,down'
+  noun: off
 -
   id: glyphicon-signal
   source: glyphicons
   clazz: 'glyphicon glyphicon-signal'
-  keywords: 'strength,wifi,cellular,mobile,bar,indicator'
+  keywords: 'signaling,sign,communication,strength,wifi,cellular,mobile,bar,indicator'
+  noun: signal
 -
   id: glyphicon-cog
   source: glyphicons
   clazz: 'glyphicon glyphicon-cog'
-  keywords: 'setting,option,configuration'
+  keywords: 'subordinate,subsidiary,underling,foot soldier,setting,option,configuration'
+  noun: cog
 -
   id: glyphicon-trash
   source: glyphicons
   clazz: 'glyphicon glyphicon-trash'
-  keywords: 'delete,remove,erase,bin,throw,rubbish'
+  keywords: 'rubbish,scrap,waste,waste material,waste matter,waste product,delete,remove,erase,bin,throw,rubbish'
+  noun: trash
 -
   id: glyphicon-home
   source: glyphicons
   clazz: 'glyphicon glyphicon-home'
-  keywords: 'house,building'
+  keywords: 'place,residence,abode,house,building'
+  noun: home
 -
   id: glyphicon-file
   source: glyphicons
   clazz: 'glyphicon glyphicon-file'
-  keywords: 'document,keep,record,media'
+  keywords: 'data file,record,document,keep,media'
+  noun: file
 -
   id: glyphicon-time
   source: glyphicons
   clazz: 'glyphicon glyphicon-time'
-  keywords: 'clock,count'
+  keywords: 'clip,case,instance,example,clock,count'
+  noun: time
 -
   id: glyphicon-road
   source: glyphicons
   clazz: 'glyphicon glyphicon-road'
-  keywords: 'way,transport,path'
+  keywords: 'route,way,transport,path'
+  noun: road
 -
   id: glyphicon-download-alt
   source: glyphicons
   clazz: 'glyphicon glyphicon-download-alt'
-  keywords: ''
+  keywords: ""
+  noun: download
 -
   id: glyphicon-download
   source: glyphicons
   clazz: 'glyphicon glyphicon-download'
-  keywords: ''
+  keywords: ""
+  noun: download
 -
   id: glyphicon-upload
   source: glyphicons
   clazz: 'glyphicon glyphicon-upload'
-  keywords: ''
+  keywords: ""
+  noun: upload
 -
   id: glyphicon-inbox
   source: glyphicons
   clazz: 'glyphicon glyphicon-inbox'
-  keywords: ''
+  keywords: 'email,receive,incoming'
+  noun: inbox
 -
   id: glyphicon-play-circle
   source: glyphicons
   clazz: 'glyphicon glyphicon-play-circle'
-  keywords: ''
+  keywords: 'drama,dramatic play,dramatic composition,dramatic work,resume,go'
+  noun: play
 -
   id: glyphicon-repeat
   source: glyphicons
   clazz: 'glyphicon glyphicon-repeat'
-  keywords: ''
+  keywords: 'repetition,periodic event,recurrent event'
+  noun: repeat
 -
   id: glyphicon-refresh
   source: glyphicons
   clazz: 'glyphicon glyphicon-refresh'
-  keywords: ''
+  keywords: ""
+  noun: refresh
 -
   id: glyphicon-list-alt
   source: glyphicons
   clazz: 'glyphicon glyphicon-list-alt'
-  keywords: ''
+  keywords: 'listing,database,view'
+  noun: list
 -
   id: glyphicon-lock
   source: glyphicons
   clazz: 'glyphicon glyphicon-lock'
-  keywords: ''
+  keywords: 'fastener,fastening,holdfast,fixing'
+  noun: lock
 -
   id: glyphicon-flag
   source: glyphicons
   clazz: 'glyphicon glyphicon-flag'
-  keywords: ''
+  keywords: emblem
+  noun: flag
 -
   id: glyphicon-headphones
   source: glyphicons
   clazz: 'glyphicon glyphicon-headphones'
-  keywords: ''
+  keywords: "listen,music,voice,sound,equipment,hear,wear"
+  noun: headphones
 -
   id: glyphicon-volume-off
   source: glyphicons
   clazz: 'glyphicon glyphicon-volume-off'
-  keywords: ''
+  keywords: 'measure,quantity,amount,listen,music,voice,sound'
+  noun: volume
 -
   id: glyphicon-volume-down
   source: glyphicons
   clazz: 'glyphicon glyphicon-volume-down'
-  keywords: ''
+  keywords: 'measure,quantity,amount,listen,music,voice,sound'
+  noun: volume
 -
   id: glyphicon-volume-up
   source: glyphicons
   clazz: 'glyphicon glyphicon-volume-up'
-  keywords: ''
+  keywords: 'measure,quantity,amount,listen,music,voice,sound'
+  noun: volume
 -
   id: glyphicon-qrcode
   source: glyphicons
   clazz: 'glyphicon glyphicon-qrcode'
-  keywords: ''
+  keywords: 'scan'
+  noun: qrcode
 -
   id: glyphicon-barcode
   source: glyphicons
   clazz: 'glyphicon glyphicon-barcode'
-  keywords: ''
+  keywords: 'scan'
+  noun: barcode
 -
   id: glyphicon-tag
   source: glyphicons
   clazz: 'glyphicon glyphicon-tag'
-  keywords: ''
+  keywords: label
+  noun: tag
 -
   id: glyphicon-tags
   source: glyphicons
   clazz: 'glyphicon glyphicon-tags'
-  keywords: ''
+  keywords: 'labels'
+  noun: tags
 -
   id: glyphicon-book
   source: glyphicons
   clazz: 'glyphicon glyphicon-book'
-  keywords: ''
+  keywords: 'publication,read,knowledge,media,document,record'
+  noun: book
 -
   id: glyphicon-bookmark
   source: glyphicons
   clazz: 'glyphicon glyphicon-bookmark'
-  keywords: ''
+  keywords: 'bookmarker,marker,save,keep'
+  noun: bookmark
 -
   id: glyphicon-print
   source: glyphicons
   clazz: 'glyphicon glyphicon-print'
-  keywords: ''
+  keywords: 'black and white,written communication,written language'
+  noun: print
 -
   id: glyphicon-camera
   source: glyphicons
   clazz: 'glyphicon glyphicon-camera'
-  keywords: ''
+  keywords: 'photographic camera,photographic equipment,picture,photo,capture,record'
+  noun: camera
 -
   id: glyphicon-font
   source: glyphicons
   clazz: 'glyphicon glyphicon-font'
-  keywords: ''
+  keywords: 'fount,typeface,face,type,word'
+  noun: font
 -
   id: glyphicon-bold
   source: glyphicons
   clazz: 'glyphicon glyphicon-bold'
-  keywords: ''
+  keywords: 'boldface,bold face,font,fount,typeface,face'
+  noun: bold
 -
   id: glyphicon-italic
   source: glyphicons
   clazz: 'glyphicon glyphicon-italic'
-  keywords: ''
+  keywords: 'longhand,running hand,cursive,cursive script'
+  noun: italic
 -
   id: glyphicon-text-height
   source: glyphicons
   clazz: 'glyphicon glyphicon-text-height'
-  keywords: ''
+  keywords: 'textual matter,matter'
+  noun: text
 -
   id: glyphicon-text-width
   source: glyphicons
   clazz: 'glyphicon glyphicon-text-width'
-  keywords: ''
+  keywords: 'textual matter,matter'
+  noun: text
 -
   id: glyphicon-align-left
   source: glyphicons
   clazz: 'glyphicon glyphicon-align-left'
-  keywords: ''
+  keywords: ""
+  noun: align
 -
   id: glyphicon-align-center
   source: glyphicons
   clazz: 'glyphicon glyphicon-align-center'
-  keywords: ''
+  keywords: ""
+  noun: align
 -
   id: glyphicon-align-right
   source: glyphicons
   clazz: 'glyphicon glyphicon-align-right'
-  keywords: ''
+  keywords: ""
+  noun: align
 -
   id: glyphicon-align-justify
   source: glyphicons
   clazz: 'glyphicon glyphicon-align-justify'
-  keywords: ''
+  keywords: ""
+  noun: align
 -
   id: glyphicon-list
   source: glyphicons
   clazz: 'glyphicon glyphicon-list'
-  keywords: ''
+  keywords: 'listing,database'
+  noun: list
 -
   id: glyphicon-indent-left
   source: glyphicons
   clazz: 'glyphicon glyphicon-indent-left'
-  keywords: ''
+  keywords: 'order,purchase order'
+  noun: indent
 -
   id: glyphicon-indent-right
   source: glyphicons
   clazz: 'glyphicon glyphicon-indent-right'
-  keywords: ''
+  keywords: 'order,purchase order'
+  noun: indent
 -
   id: glyphicon-facetime-video
   source: glyphicons
   clazz: 'glyphicon glyphicon-facetime-video'
-  keywords: ''
+  keywords: ""
+  noun: facetime
 -
   id: glyphicon-picture
   source: glyphicons
   clazz: 'glyphicon glyphicon-picture'
-  keywords: ''
+  keywords: 'image,icon,ikon,representation'
+  noun: picture
 -
   id: glyphicon-map-marker
   source: glyphicons
   clazz: 'glyphicon glyphicon-map-marker'
-  keywords: ''
+  keywords: representation
+  noun: map
 -
   id: glyphicon-adjust
   source: glyphicons
   clazz: 'glyphicon glyphicon-adjust'
-  keywords: ''
+  keywords: ""
+  noun: adjust
 -
   id: glyphicon-tint
   source: glyphicons
   clazz: 'glyphicon glyphicon-tint'
-  keywords: ''
+  keywords: 'shade,tincture,tone,color,colour,coloring,colouring'
+  noun: tint
 -
   id: glyphicon-edit
   source: glyphicons
   clazz: 'glyphicon glyphicon-edit'
-  keywords: ''
+  keywords: ""
+  noun: edit
 -
   id: glyphicon-share
   source: glyphicons
   clazz: 'glyphicon glyphicon-share'
-  keywords: ''
+  keywords: 'stock certificate,stock'
+  noun: share
 -
   id: glyphicon-check
   source: glyphicons
   clazz: 'glyphicon glyphicon-check'
-  keywords: ''
+  keywords: 'bank check,cheque,draft,bill of exchange,order of payment'
+  noun: check
 -
   id: glyphicon-move
   source: glyphicons
   clazz: 'glyphicon glyphicon-move'
-  keywords: ''
+  keywords: 'decision,determination,conclusion'
+  noun: move
 -
   id: glyphicon-step-backward
   source: glyphicons
   clazz: 'glyphicon glyphicon-step-backward'
-  keywords: ''
+  keywords: 'measure,maneuver,manoeuvre,tactical maneuver,tactical manoeuvre'
+  noun: step
 -
   id: glyphicon-fast-backward
   source: glyphicons
   clazz: 'glyphicon glyphicon-fast-backward'
-  keywords: ''
+  keywords: 'fasting,abstinence'
+  noun: fast
 -
   id: glyphicon-backward
   source: glyphicons
   clazz: 'glyphicon glyphicon-backward'
-  keywords: ''
+  keywords: ""
+  noun: backward
 -
   id: glyphicon-play
   source: glyphicons
   clazz: 'glyphicon glyphicon-play'
-  keywords: ''
+  keywords: 'drama,dramatic play,dramatic composition,dramatic work'
+  noun: play
 -
   id: glyphicon-pause
   source: glyphicons
   clazz: 'glyphicon glyphicon-pause'
-  keywords: ''
+  keywords: 'intermission,break,interruption,suspension,time interval,interval'
+  noun: pause
 -
   id: glyphicon-stop
   source: glyphicons
   clazz: 'glyphicon glyphicon-stop'
-  keywords: ''
+  keywords: 'halt,ending,conclusion,finish'
+  noun: stop
 -
   id: glyphicon-forward
   source: glyphicons
   clazz: 'glyphicon glyphicon-forward'
-  keywords: ''
+  keywords: 'basketball player,basketeer,cager'
+  noun: forward
 -
   id: glyphicon-fast-forward
   source: glyphicons
   clazz: 'glyphicon glyphicon-fast-forward'
-  keywords: ''
+  keywords: 'fasting,abstinence'
+  noun: fast
 -
   id: glyphicon-step-forward
   source: glyphicons
   clazz: 'glyphicon glyphicon-step-forward'
-  keywords: ''
+  keywords: 'measure,maneuver,manoeuvre,tactical maneuver,tactical manoeuvre'
+  noun: step
 -
   id: glyphicon-eject
   source: glyphicons
   clazz: 'glyphicon glyphicon-eject'
-  keywords: ''
+  keywords: ""
+  noun: eject
 -
   id: glyphicon-chevron-left
   source: glyphicons
   clazz: 'glyphicon glyphicon-chevron-left'
-  keywords: ''
+  keywords: 'stripe,stripes,grade insignia,badge'
+  noun: chevron
 -
   id: glyphicon-chevron-right
   source: glyphicons
   clazz: 'glyphicon glyphicon-chevron-right'
-  keywords: ''
+  keywords: 'stripe,stripes,grade insignia,badge'
+  noun: chevron
 -
   id: glyphicon-plus-sign
   source: glyphicons
   clazz: 'glyphicon glyphicon-plus-sign'
-  keywords: ''
+  keywords: 'asset,quality'
+  noun: plus
 -
   id: glyphicon-minus-sign
   source: glyphicons
   clazz: 'glyphicon glyphicon-minus-sign'
-  keywords: ''
+  keywords: 'subtraction,arithmetic operation'
+  noun: minus
 -
   id: glyphicon-remove-sign
   source: glyphicons
   clazz: 'glyphicon glyphicon-remove-sign'
-  keywords: ''
+  keywords: distance
+  noun: remove
 -
   id: glyphicon-ok-sign
   source: glyphicons
   clazz: 'glyphicon glyphicon-ok-sign'
-  keywords: ''
+  keywords: 'Oklahoma,Sooner State,OK,American state'
+  noun: ok
 -
   id: glyphicon-question-sign
   source: glyphicons
   clazz: 'glyphicon glyphicon-question-sign'
-  keywords: ''
+  keywords: 'inquiry,enquiry,query,interrogation,questioning,inquiring'
+  noun: question
 -
   id: glyphicon-info-sign
   source: glyphicons
   clazz: 'glyphicon glyphicon-info-sign'
-  keywords: ''
+  keywords: 'information,message,content,subject matter,substance'
+  noun: info
 -
   id: glyphicon-screenshot
   source: glyphicons
   clazz: 'glyphicon glyphicon-screenshot'
-  keywords: ''
+  keywords: ""
+  noun: screenshot
 -
   id: glyphicon-remove-circle
   source: glyphicons
   clazz: 'glyphicon glyphicon-remove-circle'
-  keywords: ''
+  keywords: distance
+  noun: remove
 -
   id: glyphicon-ok-circle
   source: glyphicons
   clazz: 'glyphicon glyphicon-ok-circle'
-  keywords: ''
+  keywords: 'Oklahoma,Sooner State,OK,American state'
+  noun: ok
 -
   id: glyphicon-ban-circle
   source: glyphicons
   clazz: 'glyphicon glyphicon-ban-circle'
-  keywords: ''
+  keywords: 'prohibition,proscription,decree,edict,fiat,order,rescript'
+  noun: ban
 -
   id: glyphicon-arrow-left
   source: glyphicons
   clazz: 'glyphicon glyphicon-arrow-left'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   id: glyphicon-arrow-right
   source: glyphicons
   clazz: 'glyphicon glyphicon-arrow-right'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   id: glyphicon-arrow-up
   source: glyphicons
   clazz: 'glyphicon glyphicon-arrow-up'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   id: glyphicon-arrow-down
   source: glyphicons
   clazz: 'glyphicon glyphicon-arrow-down'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   id: glyphicon-share-alt
   source: glyphicons
   clazz: 'glyphicon glyphicon-share-alt'
-  keywords: ''
+  keywords: 'stock certificate,stock'
+  noun: share
 -
   id: glyphicon-resize-full
   source: glyphicons
   clazz: 'glyphicon glyphicon-resize-full'
-  keywords: ''
+  keywords: ""
+  noun: resize
 -
   id: glyphicon-resize-small
   source: glyphicons
   clazz: 'glyphicon glyphicon-resize-small'
-  keywords: ''
+  keywords: ""
+  noun: resize
 -
   id: glyphicon-exclamation-sign
   source: glyphicons
   clazz: 'glyphicon glyphicon-exclamation-sign'
-  keywords: ''
+  keywords: 'exclaiming,utterance,vocalization'
+  noun: exclamation
 -
   id: glyphicon-gift
   source: glyphicons
   clazz: 'glyphicon glyphicon-gift'
-  keywords: ''
+  keywords: acquisition
+  noun: gift
 -
   id: glyphicon-leaf
   source: glyphicons
   clazz: 'glyphicon glyphicon-leaf'
-  keywords: ''
+  keywords: 'leafage,foliage,plant organ'
+  noun: leaf
 -
   id: glyphicon-fire
   source: glyphicons
   clazz: 'glyphicon glyphicon-fire'
-  keywords: ''
+  keywords: 'happening,occurrence,occurrent,natural event'
+  noun: fire
 -
   id: glyphicon-eye-open
   source: glyphicons
   clazz: 'glyphicon glyphicon-eye-open'
-  keywords: ''
+  keywords: 'oculus,optic,sense organ,sensory receptor,receptor'
+  noun: eye
 -
   id: glyphicon-eye-close
   source: glyphicons
   clazz: 'glyphicon glyphicon-eye-close'
-  keywords: ''
+  keywords: 'oculus,optic,sense organ,sensory receptor,receptor'
+  noun: eye
 -
   id: glyphicon-warning-sign
   source: glyphicons
   clazz: 'glyphicon glyphicon-warning-sign'
-  keywords: ''
+  keywords: 'informing,making known'
+  noun: warning
 -
   id: glyphicon-plane
   source: glyphicons
   clazz: 'glyphicon glyphicon-plane'
-  keywords: ''
+  keywords: 'airplane,aeroplane,heavier-than-air craft'
+  noun: plane
 -
   id: glyphicon-calendar
   source: glyphicons
   clazz: 'glyphicon glyphicon-calendar'
-  keywords: ''
+  keywords: 'arrangement,organization,organisation,system'
+  noun: calendar
 -
   id: glyphicon-random
   source: glyphicons
   clazz: 'glyphicon glyphicon-random'
-  keywords: ''
+  keywords: ""
+  noun: random
 -
   id: glyphicon-comment
   source: glyphicons
   clazz: 'glyphicon glyphicon-comment'
-  keywords: ''
+  keywords: 'remark,statement'
+  noun: comment
 -
   id: glyphicon-magnet
   source: glyphicons
   clazz: 'glyphicon glyphicon-magnet'
-  keywords: ''
+  keywords: device
+  noun: magnet
 -
   id: glyphicon-chevron-up
   source: glyphicons
   clazz: 'glyphicon glyphicon-chevron-up'
-  keywords: ''
+  keywords: 'stripe,stripes,grade insignia,badge'
+  noun: chevron
 -
   id: glyphicon-chevron-down
   source: glyphicons
   clazz: 'glyphicon glyphicon-chevron-down'
-  keywords: ''
+  keywords: 'stripe,stripes,grade insignia,badge'
+  noun: chevron
 -
   id: glyphicon-retweet
   source: glyphicons
   clazz: 'glyphicon glyphicon-retweet'
-  keywords: ''
+  keywords: ""
+  noun: retweet
 -
   id: glyphicon-shopping-cart
   source: glyphicons
   clazz: 'glyphicon glyphicon-shopping-cart'
-  keywords: ''
+  keywords: 'buying,purchasing'
+  noun: shopping
 -
   id: glyphicon-folder-close
   source: glyphicons
   clazz: 'glyphicon glyphicon-folder-close'
-  keywords: ''
+  keywords: 'booklet,brochure,leaflet,pamphlet,book'
+  noun: folder
 -
   id: glyphicon-folder-open
   source: glyphicons
   clazz: 'glyphicon glyphicon-folder-open'
-  keywords: ''
+  keywords: 'booklet,brochure,leaflet,pamphlet,book'
+  noun: folder
 -
   id: glyphicon-resize-vertical
   source: glyphicons
   clazz: 'glyphicon glyphicon-resize-vertical'
-  keywords: ''
+  keywords: ""
+  noun: resize
 -
   id: glyphicon-resize-horizontal
   source: glyphicons
   clazz: 'glyphicon glyphicon-resize-horizontal'
-  keywords: ''
+  keywords: ""
+  noun: resize
 -
   id: glyphicon-hdd
   source: glyphicons
   clazz: 'glyphicon glyphicon-hdd'
-  keywords: ''
+  keywords: ""
+  noun: hdd
 -
   id: glyphicon-bullhorn
   source: glyphicons
   clazz: 'glyphicon glyphicon-bullhorn'
-  keywords: ''
+  keywords: 'loud-hailer,loudspeaker,speaker,speaker unit,loudspeaker system,speaker system'
+  noun: bullhorn
 -
   id: glyphicon-bell
   source: glyphicons
   clazz: 'glyphicon glyphicon-bell'
-  keywords: ''
+  keywords: 'acoustic device,signaling device'
+  noun: bell
 -
   id: glyphicon-certificate
   source: glyphicons
   clazz: 'glyphicon glyphicon-certificate'
-  keywords: ''
+  keywords: 'certification,credential,credentials,document,written document,papers'
+  noun: certificate
 -
   id: glyphicon-thumbs-up
   source: glyphicons
   clazz: 'glyphicon glyphicon-thumbs-up'
-  keywords: ''
+  keywords: ""
+  noun: thumbs
 -
   id: glyphicon-thumbs-down
   source: glyphicons
   clazz: 'glyphicon glyphicon-thumbs-down'
-  keywords: ''
+  keywords: ""
+  noun: thumbs
 -
   id: glyphicon-hand-right
   source: glyphicons
   clazz: 'glyphicon glyphicon-hand-right'
-  keywords: ''
+  keywords: 'manus,mitt,paw,extremity'
+  noun: hand
 -
   id: glyphicon-hand-left
   source: glyphicons
   clazz: 'glyphicon glyphicon-hand-left'
-  keywords: ''
+  keywords: 'manus,mitt,paw,extremity'
+  noun: hand
 -
   id: glyphicon-hand-up
   source: glyphicons
   clazz: 'glyphicon glyphicon-hand-up'
-  keywords: ''
+  keywords: 'manus,mitt,paw,extremity'
+  noun: hand
 -
   id: glyphicon-hand-down
   source: glyphicons
   clazz: 'glyphicon glyphicon-hand-down'
-  keywords: ''
+  keywords: 'manus,mitt,paw,extremity'
+  noun: hand
 -
   id: glyphicon-circle-arrow-right
   source: glyphicons
   clazz: 'glyphicon glyphicon-circle-arrow-right'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   id: glyphicon-circle-arrow-left
   source: glyphicons
   clazz: 'glyphicon glyphicon-circle-arrow-left'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   id: glyphicon-circle-arrow-up
   source: glyphicons
   clazz: 'glyphicon glyphicon-circle-arrow-up'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   id: glyphicon-circle-arrow-down
   source: glyphicons
   clazz: 'glyphicon glyphicon-circle-arrow-down'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   id: glyphicon-globe
   source: glyphicons
   clazz: 'glyphicon glyphicon-globe'
-  keywords: ''
+  keywords: 'Earth,world,terrestrial planet'
+  noun: globe
 -
   id: glyphicon-wrench
   source: glyphicons
   clazz: 'glyphicon glyphicon-wrench'
-  keywords: ''
+  keywords: 'twist,pull,injury,hurt,harm,trauma'
+  noun: wrench
 -
   id: glyphicon-tasks
   source: glyphicons
   clazz: 'glyphicon glyphicon-tasks'
-  keywords: ''
+  keywords: ""
+  noun: tasks
 -
   id: glyphicon-filter
   source: glyphicons
   clazz: 'glyphicon glyphicon-filter'
-  keywords: ''
+  keywords: device
+  noun: filter
 -
   id: glyphicon-briefcase
   source: glyphicons
   clazz: 'glyphicon glyphicon-briefcase'
-  keywords: ''
+  keywords: case
+  noun: briefcase
 -
   id: glyphicon-fullscreen
   source: glyphicons
   clazz: 'glyphicon glyphicon-fullscreen'
-  keywords: ''
+  keywords: ""
+  noun: fullscreen
 -
   id: glyphicon-dashboard
   source: glyphicons
   clazz: 'glyphicon glyphicon-dashboard'
-  keywords: ''
+  keywords: 'splashboard,splasher,protective covering,protective cover,protection'
+  noun: dashboard
 -
   id: glyphicon-paperclip
   source: glyphicons
   clazz: 'glyphicon glyphicon-paperclip'
-  keywords: ''
+  keywords: 'paper clip,gem clip,clip'
+  noun: paperclip
 -
   id: glyphicon-heart-empty
   source: glyphicons
   clazz: 'glyphicon glyphicon-heart-empty'
-  keywords: ''
+  keywords: 'bosom,intuition,hunch,suspicion'
+  noun: heart
 -
   id: glyphicon-link
   source: glyphicons
   clazz: 'glyphicon glyphicon-link'
-  keywords: ''
+  keywords: 'nexus,linkage'
+  noun: link
 -
   id: glyphicon-phone
   source: glyphicons
   clazz: 'glyphicon glyphicon-phone'
-  keywords: ''
+  keywords: 'telephone,telephone set,electronic equipment'
+  noun: phone
 -
   id: glyphicon-pushpin
   source: glyphicons
   clazz: 'glyphicon glyphicon-pushpin'
-  keywords: ''
+  keywords: 'thumbtack,drawing pin,tack,paper fastener'
+  noun: pushpin
 -
   id: glyphicon-usd
   source: glyphicons
   clazz: 'glyphicon glyphicon-usd'
-  keywords: ''
+  keywords: ""
+  noun: usd
 -
   id: glyphicon-gbp
   source: glyphicons
   clazz: 'glyphicon glyphicon-gbp'
-  keywords: ''
+  keywords: ""
+  noun: gbp
 -
   id: glyphicon-sort
   source: glyphicons
   clazz: 'glyphicon glyphicon-sort'
-  keywords: ''
+  keywords: 'kind,form,variety,category'
+  noun: sort
 -
   id: glyphicon-sort-by-alphabet
   source: glyphicons
   clazz: 'glyphicon glyphicon-sort-by-alphabet'
-  keywords: ''
+  keywords: 'kind,form,variety,category'
+  noun: sort
 -
   id: glyphicon-sort-by-alphabet-alt
   source: glyphicons
   clazz: 'glyphicon glyphicon-sort-by-alphabet-alt'
-  keywords: ''
+  keywords: 'kind,form,variety,category'
+  noun: sort
 -
   id: glyphicon-sort-by-order
   source: glyphicons
   clazz: 'glyphicon glyphicon-sort-by-order'
-  keywords: ''
+  keywords: 'kind,form,variety,category'
+  noun: sort
 -
   id: glyphicon-sort-by-order-alt
   source: glyphicons
   clazz: 'glyphicon glyphicon-sort-by-order-alt'
-  keywords: ''
+  keywords: 'kind,form,variety,category'
+  noun: sort
 -
   id: glyphicon-sort-by-attributes
   source: glyphicons
   clazz: 'glyphicon glyphicon-sort-by-attributes'
-  keywords: ''
+  keywords: 'kind,form,variety,category'
+  noun: sort
 -
   id: glyphicon-sort-by-attributes-alt
   source: glyphicons
   clazz: 'glyphicon glyphicon-sort-by-attributes-alt'
-  keywords: ''
+  keywords: 'kind,form,variety,category'
+  noun: sort
 -
   id: glyphicon-unchecked
   source: glyphicons
   clazz: 'glyphicon glyphicon-unchecked'
-  keywords: ''
+  keywords: ""
+  noun: unchecked
 -
   id: glyphicon-expand
   source: glyphicons
   clazz: 'glyphicon glyphicon-expand'
-  keywords: ''
+  keywords: ""
+  noun: expand
 -
   id: glyphicon-collapse-down
   source: glyphicons
   clazz: 'glyphicon glyphicon-collapse-down'
-  keywords: ''
+  keywords: 'illness,unwellness,malady,sickness'
+  noun: collapse
 -
   id: glyphicon-collapse-up
   source: glyphicons
   clazz: 'glyphicon glyphicon-collapse-up'
-  keywords: ''
+  keywords: 'illness,unwellness,malady,sickness'
+  noun: collapse
 -
   id: glyphicon-log-in
   source: glyphicons
   clazz: 'glyphicon glyphicon-log-in'
-  keywords: ''
+  keywords: wood
+  noun: log
 -
   id: glyphicon-flash
   source: glyphicons
   clazz: 'glyphicon glyphicon-flash'
-  keywords: ''
+  keywords: 'happening,occurrence,occurrent,natural event'
+  noun: flash
 -
   id: glyphicon-log-out
   source: glyphicons
   clazz: 'glyphicon glyphicon-log-out'
-  keywords: ''
+  keywords: wood
+  noun: log
 -
   id: glyphicon-new-window
   source: glyphicons
   clazz: 'glyphicon glyphicon-new-window'
-  keywords: ''
+  keywords: ""
+  noun: new
 -
   id: glyphicon-record
   source: glyphicons
   clazz: 'glyphicon glyphicon-record'
-  keywords: ''
+  keywords: evidence
+  noun: record
 -
   id: glyphicon-save
   source: glyphicons
   clazz: 'glyphicon glyphicon-save'
-  keywords: ''
+  keywords: 'prevention,bar'
+  noun: save
 -
   id: glyphicon-open
   source: glyphicons
   clazz: 'glyphicon glyphicon-open'
-  keywords: ''
+  keywords: 'clear,area,country'
+  noun: open
 -
   id: glyphicon-saved
   source: glyphicons
   clazz: 'glyphicon glyphicon-saved'
-  keywords: ''
+  keywords: ""
+  noun: saved
 -
   id: glyphicon-import
   source: glyphicons
   clazz: 'glyphicon glyphicon-import'
-  keywords: ''
+  keywords: 'importation,commodity,trade good,good'
+  noun: import
 -
   id: glyphicon-export
   source: glyphicons
   clazz: 'glyphicon glyphicon-export'
-  keywords: ''
+  keywords: 'exportation,commodity,trade good,good'
+  noun: export
 -
   id: glyphicon-send
   source: glyphicons
   clazz: 'glyphicon glyphicon-send'
-  keywords: ''
+  keywords: ""
+  noun: send
 -
   id: glyphicon-floppy-disk
   source: glyphicons
   clazz: 'glyphicon glyphicon-floppy-disk'
-  keywords: ''
+  keywords: 'diskette,floppy disk,magnetic disk,magnetic disc,disk,disc'
+  noun: floppy
 -
   id: glyphicon-floppy-saved
   source: glyphicons
   clazz: 'glyphicon glyphicon-floppy-saved'
-  keywords: ''
+  keywords: 'diskette,floppy disk,magnetic disk,magnetic disc,disk,disc'
+  noun: floppy
 -
   id: glyphicon-floppy-remove
   source: glyphicons
   clazz: 'glyphicon glyphicon-floppy-remove'
-  keywords: ''
+  keywords: 'diskette,floppy disk,magnetic disk,magnetic disc,disk,disc'
+  noun: floppy
 -
   id: glyphicon-floppy-save
   source: glyphicons
   clazz: 'glyphicon glyphicon-floppy-save'
-  keywords: ''
+  keywords: 'diskette,floppy disk,magnetic disk,magnetic disc,disk,disc'
+  noun: floppy
 -
   id: glyphicon-floppy-open
   source: glyphicons
   clazz: 'glyphicon glyphicon-floppy-open'
-  keywords: ''
+  keywords: 'diskette,floppy disk,magnetic disk,magnetic disc,disk,disc'
+  noun: floppy
 -
   id: glyphicon-credit-card
   source: glyphicons
   clazz: 'glyphicon glyphicon-credit-card'
-  keywords: ''
+  keywords: 'recognition,approval,commendation'
+  noun: credit
 -
   id: glyphicon-transfer
   source: glyphicons
   clazz: 'glyphicon glyphicon-transfer'
-  keywords: ''
+  keywords: 'transportation,transferral,conveyance,movement'
+  noun: transfer
 -
   id: glyphicon-cutlery
   source: glyphicons
   clazz: 'glyphicon glyphicon-cutlery'
-  keywords: ''
+  keywords: 'cutter,cutting tool,cutting implement'
+  noun: cutlery
 -
   id: glyphicon-header
   source: glyphicons
   clazz: 'glyphicon glyphicon-header'
-  keywords: ''
+  keywords: 'heading,head,line'
+  noun: header
 -
   id: glyphicon-compressed
   source: glyphicons
   clazz: 'glyphicon glyphicon-compressed'
-  keywords: ''
+  keywords: ""
+  noun: compressed
 -
   id: glyphicon-earphone
   source: glyphicons
   clazz: 'glyphicon glyphicon-earphone'
-  keywords: ''
+  keywords: 'earpiece,headphone,phone,electro-acoustic transducer'
+  noun: earphone
 -
   id: glyphicon-phone-alt
   source: glyphicons
   clazz: 'glyphicon glyphicon-phone-alt'
-  keywords: ''
+  keywords: 'telephone,telephone set,electronic equipment'
+  noun: phone
 -
   id: glyphicon-tower
   source: glyphicons
   clazz: 'glyphicon glyphicon-tower'
-  keywords: ''
+  keywords: 'structure,construction'
+  noun: tower
 -
   id: glyphicon-stats
   source: glyphicons
   clazz: 'glyphicon glyphicon-stats'
-  keywords: ''
+  keywords: ""
+  noun: stats
 -
   id: glyphicon-sd-video
   source: glyphicons
   clazz: 'glyphicon glyphicon-sd-video'
-  keywords: ''
+  keywords: 'South Dakota,Coyote State,Mount Rushmore State,SD,American state'
+  noun: sd
 -
   id: glyphicon-hd-video
   source: glyphicons
   clazz: 'glyphicon glyphicon-hd-video'
-  keywords: ''
+  keywords: ""
+  noun: hd
 -
   id: glyphicon-subtitles
   source: glyphicons
   clazz: 'glyphicon glyphicon-subtitles'
-  keywords: ''
+  keywords: ""
+  noun: subtitles
 -
   id: glyphicon-sound-stereo
   source: glyphicons
   clazz: 'glyphicon glyphicon-sound-stereo'
-  keywords: ''
+  keywords: 'sound property'
+  noun: sound
 -
   id: glyphicon-sound-dolby
   source: glyphicons
   clazz: 'glyphicon glyphicon-sound-dolby'
-  keywords: ''
+  keywords: 'sound property'
+  noun: sound
 -
   id: glyphicon-sound-5-1
   source: glyphicons
   clazz: 'glyphicon glyphicon-sound-5-1'
-  keywords: ''
+  keywords: 'sound property'
+  noun: sound
 -
   id: glyphicon-sound-6-1
   source: glyphicons
   clazz: 'glyphicon glyphicon-sound-6-1'
-  keywords: ''
+  keywords: 'sound property'
+  noun: sound
 -
   id: glyphicon-sound-7-1
   source: glyphicons
   clazz: 'glyphicon glyphicon-sound-7-1'
-  keywords: ''
+  keywords: 'sound property'
+  noun: sound
 -
   id: glyphicon-copyright-mark
   source: glyphicons
   clazz: 'glyphicon glyphicon-copyright-mark'
-  keywords: ''
+  keywords: 'right of first publication,document,written document,papers,legal right'
+  noun: copyright
 -
   id: glyphicon-registration-mark
   source: glyphicons
   clazz: 'glyphicon glyphicon-registration-mark'
-  keywords: ''
+  keywords: 'enrollment,enrolment,entrance,entering,entry,ingress,incoming'
+  noun: registration
 -
   id: glyphicon-cloud-download
   source: glyphicons
   clazz: 'glyphicon glyphicon-cloud-download'
-  keywords: ''
+  keywords: 'physical phenomenon'
+  noun: cloud
 -
   id: glyphicon-cloud-upload
   source: glyphicons
   clazz: 'glyphicon glyphicon-cloud-upload'
-  keywords: ''
+  keywords: 'physical phenomenon'
+  noun: cloud
 -
   id: glyphicon-tree-conifer
   source: glyphicons
   clazz: 'glyphicon glyphicon-tree-conifer'
-  keywords: ''
+  keywords: 'woody plant,ligneous plant'
+  noun: tree
 -
   id: glyphicon-tree-deciduous
   source: glyphicons
   clazz: 'glyphicon glyphicon-tree-deciduous'
-  keywords: ''
+  keywords: 'woody plant,ligneous plant'
+  noun: tree
 -
   name: Glass
   id: fa-glass
@@ -1006,7 +1206,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-glass'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Music
   id: fa-music
@@ -1015,7 +1216,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-music'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Search
   id: fa-search
@@ -1024,7 +1226,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-search'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Envelope Outlined'
   id: fa-envelope-o
@@ -1033,7 +1236,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-envelope-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: Heart
   id: fa-heart
@@ -1042,7 +1246,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-heart'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Star
   id: fa-star
@@ -1051,7 +1256,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-star'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Star Outlined'
   id: fa-star-o
@@ -1060,7 +1266,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-star-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: User
   id: fa-user
@@ -1069,7 +1276,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-user'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Film
   id: fa-film
@@ -1078,7 +1286,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-film'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: th-large
   id: fa-th-large
@@ -1087,7 +1296,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-th-large'
-  keywords: ''
+  keywords: size
+  noun: large
 -
   name: th
   id: fa-th
@@ -1096,7 +1306,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-th'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: th-list
   id: fa-th-list
@@ -1105,7 +1316,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-th-list'
-  keywords: ''
+  keywords: 'listing,database'
+  noun: list
 -
   name: Check
   id: fa-check
@@ -1114,7 +1326,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-check'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Times
   id: fa-times
@@ -1124,7 +1337,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-times'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Search Plus'
   id: fa-search-plus
@@ -1133,7 +1347,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-search-plus'
-  keywords: ''
+  keywords: 'asset,quality'
+  noun: plus
 -
   name: 'Search Minus'
   id: fa-search-minus
@@ -1142,7 +1357,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-search-minus'
-  keywords: ''
+  keywords: 'subtraction,arithmetic operation'
+  noun: minus
 -
   name: 'Power Off'
   id: fa-power-off
@@ -1151,7 +1367,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-power-off'
-  keywords: ''
+  keywords: ""
+  noun: off
 -
   name: signal
   id: fa-signal
@@ -1160,7 +1377,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-signal'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: cog
   id: fa-cog
@@ -1170,7 +1388,8 @@
   categories: ['Web Application Icons', 'Spinner Icons']
   source: fontawesome
   clazz: 'fa fa-cog'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Trash Outlined'
   id: fa-trash-o
@@ -1179,7 +1398,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-trash-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: home
   id: fa-home
@@ -1188,7 +1408,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-home'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'File Outlined'
   id: fa-file-o
@@ -1197,7 +1418,8 @@
   categories: ['Text Editor Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Clock Outlined'
   id: fa-clock-o
@@ -1206,7 +1428,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-clock-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: road
   id: fa-road
@@ -1215,7 +1438,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-road'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Download
   id: fa-download
@@ -1224,7 +1448,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-download'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Arrow Circle Outlined Down'
   id: fa-arrow-circle-o-down
@@ -1233,7 +1458,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-circle-o-down'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Arrow Circle Outlined Up'
   id: fa-arrow-circle-o-up
@@ -1242,7 +1468,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-circle-o-up'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: inbox
   id: fa-inbox
@@ -1251,7 +1478,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-inbox'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Play Circle Outlined'
   id: fa-play-circle-o
@@ -1260,7 +1488,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-play-circle-o'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: Repeat
   id: fa-repeat
@@ -1270,7 +1499,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-repeat'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: refresh
   id: fa-refresh
@@ -1279,7 +1509,8 @@
   categories: ['Web Application Icons', 'Spinner Icons']
   source: fontawesome
   clazz: 'fa fa-refresh'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: list-alt
   id: fa-list-alt
@@ -1288,7 +1519,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-list-alt'
-  keywords: ''
+  keywords: 'elevation,EL,altitude,ALT,angular position'
+  noun: alt
 -
   name: lock
   id: fa-lock
@@ -1297,7 +1529,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-lock'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: flag
   id: fa-flag
@@ -1306,7 +1539,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-flag'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: headphones
   id: fa-headphones
@@ -1315,7 +1549,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-headphones'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: volume-off
   id: fa-volume-off
@@ -1324,7 +1559,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-volume-off'
-  keywords: ''
+  keywords: ""
+  noun: off
 -
   name: volume-down
   id: fa-volume-down
@@ -1333,7 +1569,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-volume-down'
-  keywords: ''
+  keywords: 'down feather,feather,plume,plumage'
+  noun: down
 -
   name: volume-up
   id: fa-volume-up
@@ -1342,7 +1579,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-volume-up'
-  keywords: ''
+  keywords: ""
+  noun: up
 -
   name: qrcode
   id: fa-qrcode
@@ -1351,7 +1589,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-qrcode'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: barcode
   id: fa-barcode
@@ -1360,7 +1599,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-barcode'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: tag
   id: fa-tag
@@ -1369,7 +1609,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-tag'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: tags
   id: fa-tags
@@ -1378,7 +1619,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-tags'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: book
   id: fa-book
@@ -1387,7 +1629,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-book'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: bookmark
   id: fa-bookmark
@@ -1396,7 +1639,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bookmark'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: print
   id: fa-print
@@ -1405,7 +1649,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-print'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: camera
   id: fa-camera
@@ -1414,7 +1659,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-camera'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: font
   id: fa-font
@@ -1423,7 +1669,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-font'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: bold
   id: fa-bold
@@ -1432,7 +1679,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-bold'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: italic
   id: fa-italic
@@ -1441,7 +1689,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-italic'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: text-height
   id: fa-text-height
@@ -1450,7 +1699,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-text-height'
-  keywords: ''
+  keywords: 'tallness,dimension'
+  noun: height
 -
   name: text-width
   id: fa-text-width
@@ -1459,7 +1709,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-text-width'
-  keywords: ''
+  keywords: 'breadth,dimension'
+  noun: width
 -
   name: align-left
   id: fa-align-left
@@ -1468,7 +1719,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-align-left'
-  keywords: ''
+  keywords: 'position,place'
+  noun: left
 -
   name: align-center
   id: fa-align-center
@@ -1477,7 +1729,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-align-center'
-  keywords: ''
+  keywords: 'centre,middle,heart,eye,area,country'
+  noun: center
 -
   name: align-right
   id: fa-align-right
@@ -1486,7 +1739,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-align-right'
-  keywords: ''
+  keywords: 'abstraction,abstract'
+  noun: right
 -
   name: align-justify
   id: fa-align-justify
@@ -1495,7 +1749,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-align-justify'
-  keywords: ''
+  keywords: ""
+  noun: justify
 -
   name: list
   id: fa-list
@@ -1504,7 +1759,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-list'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Outdent
   id: fa-outdent
@@ -1514,7 +1770,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-outdent'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Indent
   id: fa-indent
@@ -1523,7 +1780,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-indent'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Video Camera'
   id: fa-video-camera
@@ -1532,7 +1790,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-video-camera'
-  keywords: ''
+  keywords: 'photographic camera,photographic equipment'
+  noun: camera
 -
   name: 'Picture Outlined'
   id: fa-picture-o
@@ -1542,7 +1801,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-picture-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: pencil
   id: fa-pencil
@@ -1551,7 +1811,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-pencil'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: map-marker
   id: fa-map-marker
@@ -1560,7 +1821,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-map-marker'
-  keywords: ''
+  keywords: 'artifact,artefact'
+  noun: marker
 -
   name: adjust
   id: fa-adjust
@@ -1569,7 +1831,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-adjust'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: tint
   id: fa-tint
@@ -1578,7 +1841,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-tint'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Pencil Square Outlined'
   id: fa-pencil-square-o
@@ -1588,7 +1852,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-pencil-square-o'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Share Square Outlined'
   id: fa-share-square-o
@@ -1597,7 +1862,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-share-square-o'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Check Square Outlined'
   id: fa-check-square-o
@@ -1606,7 +1872,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-check-square-o'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: Arrows
   id: fa-arrows
@@ -1615,7 +1882,8 @@
   categories: ['Web Application Icons', 'Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrows'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: step-backward
   id: fa-step-backward
@@ -1624,7 +1892,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-step-backward'
-  keywords: ''
+  keywords: ""
+  noun: backward
 -
   name: fast-backward
   id: fa-fast-backward
@@ -1633,7 +1902,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-fast-backward'
-  keywords: ''
+  keywords: ""
+  noun: backward
 -
   name: backward
   id: fa-backward
@@ -1642,7 +1912,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-backward'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: play
   id: fa-play
@@ -1651,7 +1922,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-play'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: pause
   id: fa-pause
@@ -1660,7 +1932,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-pause'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: stop
   id: fa-stop
@@ -1669,7 +1942,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-stop'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: forward
   id: fa-forward
@@ -1678,7 +1952,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-forward'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: fast-forward
   id: fa-fast-forward
@@ -1687,7 +1962,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-fast-forward'
-  keywords: ''
+  keywords: 'basketball player,basketeer,cager'
+  noun: forward
 -
   name: step-forward
   id: fa-step-forward
@@ -1696,7 +1972,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-step-forward'
-  keywords: ''
+  keywords: 'basketball player,basketeer,cager'
+  noun: forward
 -
   name: eject
   id: fa-eject
@@ -1705,7 +1982,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-eject'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: chevron-left
   id: fa-chevron-left
@@ -1714,7 +1992,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-chevron-left'
-  keywords: ''
+  keywords: 'position,place'
+  noun: left
 -
   name: chevron-right
   id: fa-chevron-right
@@ -1723,7 +2002,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-chevron-right'
-  keywords: ''
+  keywords: 'abstraction,abstract'
+  noun: right
 -
   name: 'Plus Circle'
   id: fa-plus-circle
@@ -1732,7 +2012,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-plus-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Minus Circle'
   id: fa-minus-circle
@@ -1741,7 +2022,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-minus-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Times Circle'
   id: fa-times-circle
@@ -1750,7 +2032,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-times-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Check Circle'
   id: fa-check-circle
@@ -1759,7 +2042,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-check-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Question Circle'
   id: fa-question-circle
@@ -1768,7 +2052,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-question-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Info Circle'
   id: fa-info-circle
@@ -1777,7 +2062,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-info-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: Crosshairs
   id: fa-crosshairs
@@ -1786,7 +2072,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-crosshairs'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Times Circle Outlined'
   id: fa-times-circle-o
@@ -1795,7 +2082,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-times-circle-o'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Check Circle Outlined'
   id: fa-check-circle-o
@@ -1804,7 +2092,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-check-circle-o'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: ban
   id: fa-ban
@@ -1813,7 +2102,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-ban'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: arrow-left
   id: fa-arrow-left
@@ -1822,7 +2112,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-left'
-  keywords: ''
+  keywords: 'position,place'
+  noun: left
 -
   name: arrow-right
   id: fa-arrow-right
@@ -1831,7 +2122,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-right'
-  keywords: ''
+  keywords: 'abstraction,abstract'
+  noun: right
 -
   name: arrow-up
   id: fa-arrow-up
@@ -1840,7 +2132,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-up'
-  keywords: ''
+  keywords: ""
+  noun: up
 -
   name: arrow-down
   id: fa-arrow-down
@@ -1849,7 +2142,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-down'
-  keywords: ''
+  keywords: 'down feather,feather,plume,plumage'
+  noun: down
 -
   name: Share
   id: fa-share
@@ -1859,7 +2153,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-share'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Expand
   id: fa-expand
@@ -1868,7 +2163,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-expand'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Compress
   id: fa-compress
@@ -1877,7 +2173,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-compress'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: plus
   id: fa-plus
@@ -1886,7 +2183,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-plus'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: minus
   id: fa-minus
@@ -1895,7 +2193,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-minus'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: asterisk
   id: fa-asterisk
@@ -1904,7 +2203,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-asterisk'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Exclamation Circle'
   id: fa-exclamation-circle
@@ -1913,7 +2213,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-exclamation-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: gift
   id: fa-gift
@@ -1922,7 +2223,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-gift'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: leaf
   id: fa-leaf
@@ -1931,7 +2233,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-leaf'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: fire
   id: fa-fire
@@ -1940,7 +2243,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-fire'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Eye
   id: fa-eye
@@ -1949,7 +2253,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-eye'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Eye Slash'
   id: fa-eye-slash
@@ -1958,7 +2263,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-eye-slash'
-  keywords: ''
+  keywords: 'cut,gash,slice,wound,lesion'
+  noun: slash
 -
   name: 'Exclamation Triangle'
   id: fa-exclamation-triangle
@@ -1968,7 +2274,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-exclamation-triangle'
-  keywords: ''
+  keywords: 'trigon,trilateral,polygon,polygonal shape'
+  noun: triangle
 -
   name: plane
   id: fa-plane
@@ -1977,7 +2284,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-plane'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: calendar
   id: fa-calendar
@@ -1986,7 +2294,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-calendar'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: random
   id: fa-random
@@ -1995,7 +2304,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-random'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: comment
   id: fa-comment
@@ -2004,7 +2314,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-comment'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: magnet
   id: fa-magnet
@@ -2013,7 +2324,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-magnet'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: chevron-up
   id: fa-chevron-up
@@ -2022,7 +2334,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-chevron-up'
-  keywords: ''
+  keywords: ""
+  noun: up
 -
   name: chevron-down
   id: fa-chevron-down
@@ -2031,7 +2344,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-chevron-down'
-  keywords: ''
+  keywords: 'down feather,feather,plume,plumage'
+  noun: down
 -
   name: retweet
   id: fa-retweet
@@ -2040,7 +2354,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-retweet'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: shopping-cart
   id: fa-shopping-cart
@@ -2049,7 +2364,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-shopping-cart'
-  keywords: ''
+  keywords: 'wagon,waggon'
+  noun: cart
 -
   name: Folder
   id: fa-folder
@@ -2058,7 +2374,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-folder'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Folder Open'
   id: fa-folder-open
@@ -2067,7 +2384,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-folder-open'
-  keywords: ''
+  keywords: 'clear,area,country'
+  noun: open
 -
   name: 'Arrows Vertical'
   id: fa-arrows-v
@@ -2076,7 +2394,8 @@
   categories: ['Web Application Icons', 'Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrows-v'
-  keywords: ''
+  keywords: 'volt,V,potential unit'
+  noun: v
 -
   name: 'Arrows Horizontal'
   id: fa-arrows-h
@@ -2085,7 +2404,8 @@
   categories: ['Web Application Icons', 'Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrows-h'
-  keywords: ''
+  keywords: 'hydrogen,H,atomic number 1,chemical element,element,gas'
+  noun: h
 -
   name: 'Bar Chart'
   id: fa-bar-chart
@@ -2095,7 +2415,8 @@
   categories: ['Web Application Icons', 'Chart Icons']
   source: fontawesome
   clazz: 'fa fa-bar-chart'
-  keywords: ''
+  keywords: 'visual communication'
+  noun: chart
 -
   name: 'Twitter Square'
   id: fa-twitter-square
@@ -2104,7 +2425,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-twitter-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Facebook Square'
   id: fa-facebook-square
@@ -2113,7 +2435,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-facebook-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: camera-retro
   id: fa-camera-retro
@@ -2122,7 +2445,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-camera-retro'
-  keywords: ''
+  keywords: fashion
+  noun: retro
 -
   name: key
   id: fa-key
@@ -2131,7 +2455,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-key'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: cogs
   id: fa-cogs
@@ -2141,7 +2466,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-cogs'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: comments
   id: fa-comments
@@ -2150,7 +2476,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-comments'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Thumbs Up Outlined'
   id: fa-thumbs-o-up
@@ -2159,7 +2486,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-thumbs-o-up'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Thumbs Down Outlined'
   id: fa-thumbs-o-down
@@ -2168,7 +2496,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-thumbs-o-down'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: star-half
   id: fa-star-half
@@ -2177,7 +2506,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-star-half'
-  keywords: ''
+  keywords: 'one-half,common fraction,simple fraction'
+  noun: half
 -
   name: 'Heart Outlined'
   id: fa-heart-o
@@ -2186,7 +2516,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-heart-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Sign Out'
   id: fa-sign-out
@@ -2195,7 +2526,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sign-out'
-  keywords: ''
+  keywords: failure
+  noun: out
 -
   name: 'LinkedIn Square'
   id: fa-linkedin-square
@@ -2204,7 +2536,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-linkedin-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Thumb Tack'
   id: fa-thumb-tack
@@ -2213,7 +2546,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-thumb-tack'
-  keywords: ''
+  keywords: 'bearing,heading,aim'
+  noun: tack
 -
   name: 'External Link'
   id: fa-external-link
@@ -2222,7 +2556,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-external-link'
-  keywords: ''
+  keywords: 'nexus,linkage'
+  noun: link
 -
   name: 'Sign In'
   id: fa-sign-in
@@ -2231,7 +2566,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sign-in'
-  keywords: ''
+  keywords: 'inch,linear unit'
+  noun: in
 -
   name: trophy
   id: fa-trophy
@@ -2240,7 +2576,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-trophy'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'GitHub Square'
   id: fa-github-square
@@ -2249,7 +2586,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-github-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: Upload
   id: fa-upload
@@ -2258,7 +2596,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-upload'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Lemon Outlined'
   id: fa-lemon-o
@@ -2267,7 +2606,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-lemon-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: Phone
   id: fa-phone
@@ -2276,7 +2616,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-phone'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Square Outlined'
   id: fa-square-o
@@ -2285,7 +2626,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-square-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Bookmark Outlined'
   id: fa-bookmark-o
@@ -2294,7 +2636,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bookmark-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Phone Square'
   id: fa-phone-square
@@ -2303,7 +2646,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-phone-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: Twitter
   id: fa-twitter
@@ -2312,7 +2656,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-twitter'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Facebook
   id: fa-facebook
@@ -2321,7 +2666,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-facebook'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: GitHub
   id: fa-github
@@ -2330,7 +2676,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-github'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: unlock
   id: fa-unlock
@@ -2339,7 +2686,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-unlock'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: credit-card
   id: fa-credit-card
@@ -2348,7 +2696,8 @@
   categories: ['Web Application Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-credit-card'
-  keywords: ''
+  keywords: paper
+  noun: card
 -
   name: rss
   id: fa-rss
@@ -2357,7 +2706,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-rss'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: HDD
   id: fa-hdd-o
@@ -2366,7 +2716,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-hdd-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: bullhorn
   id: fa-bullhorn
@@ -2375,7 +2726,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bullhorn'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: bell
   id: fa-bell
@@ -2384,7 +2736,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bell'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: certificate
   id: fa-certificate
@@ -2393,7 +2746,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-certificate'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Hand Outlined Right'
   id: fa-hand-o-right
@@ -2402,7 +2756,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-hand-o-right'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Hand Outlined Left'
   id: fa-hand-o-left
@@ -2411,7 +2766,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-hand-o-left'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Hand Outlined Up'
   id: fa-hand-o-up
@@ -2420,7 +2776,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-hand-o-up'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Hand Outlined Down'
   id: fa-hand-o-down
@@ -2429,7 +2786,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-hand-o-down'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Arrow Circle Left'
   id: fa-arrow-circle-left
@@ -2438,7 +2796,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-circle-left'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Arrow Circle Right'
   id: fa-arrow-circle-right
@@ -2447,7 +2806,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-circle-right'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Arrow Circle Up'
   id: fa-arrow-circle-up
@@ -2456,7 +2816,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-circle-up'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Arrow Circle Down'
   id: fa-arrow-circle-down
@@ -2465,7 +2826,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-circle-down'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: Globe
   id: fa-globe
@@ -2474,7 +2836,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-globe'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Wrench
   id: fa-wrench
@@ -2483,7 +2846,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-wrench'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Tasks
   id: fa-tasks
@@ -2492,7 +2856,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-tasks'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Filter
   id: fa-filter
@@ -2501,7 +2866,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-filter'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Briefcase
   id: fa-briefcase
@@ -2510,7 +2876,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-briefcase'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Arrows Alt'
   id: fa-arrows-alt
@@ -2519,7 +2886,8 @@
   categories: ['Video Player Icons', 'Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrows-alt'
-  keywords: ''
+  keywords: 'elevation,EL,altitude,ALT,angular position'
+  noun: alt
 -
   name: Users
   id: fa-users
@@ -2529,7 +2897,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-users'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Link
   id: fa-link
@@ -2539,7 +2908,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-link'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Cloud
   id: fa-cloud
@@ -2548,7 +2918,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-cloud'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Flask
   id: fa-flask
@@ -2557,7 +2928,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-flask'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Scissors
   id: fa-scissors
@@ -2567,7 +2939,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-scissors'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Files Outlined'
   id: fa-files-o
@@ -2577,7 +2950,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-files-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: Paperclip
   id: fa-paperclip
@@ -2586,7 +2960,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-paperclip'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Floppy Outlined'
   id: fa-floppy-o
@@ -2596,7 +2971,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-floppy-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: Square
   id: fa-square
@@ -2605,7 +2981,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-square'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Bars
   id: fa-bars
@@ -2615,7 +2992,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bars'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: list-ul
   id: fa-list-ul
@@ -2624,7 +3002,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-list-ul'
-  keywords: ''
+  keywords: ""
+  noun: ul
 -
   name: list-ol
   id: fa-list-ol
@@ -2633,7 +3012,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-list-ol'
-  keywords: ''
+  keywords: ""
+  noun: ol
 -
   name: Strikethrough
   id: fa-strikethrough
@@ -2642,7 +3022,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-strikethrough'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Underline
   id: fa-underline
@@ -2651,7 +3032,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-underline'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: table
   id: fa-table
@@ -2660,7 +3042,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-table'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: magic
   id: fa-magic
@@ -2669,7 +3052,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-magic'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: truck
   id: fa-truck
@@ -2678,7 +3062,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-truck'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Pinterest
   id: fa-pinterest
@@ -2687,7 +3072,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-pinterest'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Pinterest Square'
   id: fa-pinterest-square
@@ -2696,7 +3082,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-pinterest-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Google Plus Square'
   id: fa-google-plus-square
@@ -2705,7 +3092,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-google-plus-square'
-  keywords: ''
+  keywords: 'asset,quality'
+  noun: plus
 -
   name: 'Google Plus'
   id: fa-google-plus
@@ -2714,7 +3102,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-google-plus'
-  keywords: ''
+  keywords: 'asset,quality'
+  noun: plus
 -
   name: Money
   id: fa-money
@@ -2723,7 +3112,8 @@
   categories: ['Web Application Icons', 'Currency Icons']
   source: fontawesome
   clazz: 'fa fa-money'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Caret Down'
   id: fa-caret-down
@@ -2732,7 +3122,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-caret-down'
-  keywords: ''
+  keywords: 'down feather,feather,plume,plumage'
+  noun: down
 -
   name: 'Caret Up'
   id: fa-caret-up
@@ -2741,7 +3132,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-caret-up'
-  keywords: ''
+  keywords: ""
+  noun: up
 -
   name: 'Caret Left'
   id: fa-caret-left
@@ -2750,7 +3142,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-caret-left'
-  keywords: ''
+  keywords: 'position,place'
+  noun: left
 -
   name: 'Caret Right'
   id: fa-caret-right
@@ -2759,7 +3152,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-caret-right'
-  keywords: ''
+  keywords: 'abstraction,abstract'
+  noun: right
 -
   name: Columns
   id: fa-columns
@@ -2768,7 +3162,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-columns'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Sort
   id: fa-sort
@@ -2778,7 +3173,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Sort Descending'
   id: fa-sort-desc
@@ -2788,7 +3184,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort-desc'
-  keywords: ''
+  keywords: ""
+  noun: desc
 -
   name: 'Sort Ascending'
   id: fa-sort-asc
@@ -2798,7 +3195,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort-asc'
-  keywords: ''
+  keywords: ""
+  noun: asc
 -
   name: Envelope
   id: fa-envelope
@@ -2807,7 +3205,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-envelope'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: LinkedIn
   id: fa-linkedin
@@ -2816,7 +3215,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-linkedin'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Undo
   id: fa-undo
@@ -2826,7 +3226,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-undo'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Gavel
   id: fa-gavel
@@ -2836,7 +3237,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-gavel'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Tachometer
   id: fa-tachometer
@@ -2846,7 +3248,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-tachometer'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: comment-o
   id: fa-comment-o
@@ -2855,7 +3258,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-comment-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: comments-o
   id: fa-comments-o
@@ -2864,7 +3268,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-comments-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Lightning Bolt'
   id: fa-bolt
@@ -2874,7 +3279,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bolt'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Sitemap
   id: fa-sitemap
@@ -2883,7 +3289,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sitemap'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Umbrella
   id: fa-umbrella
@@ -2892,7 +3299,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-umbrella'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Clipboard
   id: fa-clipboard
@@ -2902,7 +3310,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-clipboard'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Lightbulb Outlined'
   id: fa-lightbulb-o
@@ -2911,7 +3320,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-lightbulb-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: Exchange
   id: fa-exchange
@@ -2920,7 +3330,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-exchange'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Cloud Download'
   id: fa-cloud-download
@@ -2929,7 +3340,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-cloud-download'
-  keywords: ''
+  keywords: ""
+  noun: download
 -
   name: 'Cloud Upload'
   id: fa-cloud-upload
@@ -2938,7 +3350,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-cloud-upload'
-  keywords: ''
+  keywords: ""
+  noun: upload
 -
   name: user-md
   id: fa-user-md
@@ -2947,7 +3360,8 @@
   categories: ['Medical Icons']
   source: fontawesome
   clazz: 'fa fa-user-md'
-  keywords: ''
+  keywords: 'mendelevium,Md,Mv,atomic number 101,chemical element,element'
+  noun: md
 -
   name: Stethoscope
   id: fa-stethoscope
@@ -2956,7 +3370,8 @@
   categories: ['Medical Icons']
   source: fontawesome
   clazz: 'fa fa-stethoscope'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Suitcase
   id: fa-suitcase
@@ -2965,7 +3380,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-suitcase'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Bell Outlined'
   id: fa-bell-o
@@ -2974,7 +3390,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bell-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: Coffee
   id: fa-coffee
@@ -2983,7 +3400,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-coffee'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Cutlery
   id: fa-cutlery
@@ -2992,7 +3410,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-cutlery'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'File Text Outlined'
   id: fa-file-text-o
@@ -3001,7 +3420,8 @@
   categories: ['Text Editor Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-text-o'
-  keywords: ''
+  keywords: 'textual matter,matter'
+  noun: text
 -
   name: 'Building Outlined'
   id: fa-building-o
@@ -3010,7 +3430,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-building-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'hospital Outlined'
   id: fa-hospital-o
@@ -3019,7 +3440,8 @@
   categories: ['Medical Icons']
   source: fontawesome
   clazz: 'fa fa-hospital-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: ambulance
   id: fa-ambulance
@@ -3028,7 +3450,8 @@
   categories: ['Medical Icons']
   source: fontawesome
   clazz: 'fa fa-ambulance'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: medkit
   id: fa-medkit
@@ -3037,7 +3460,8 @@
   categories: ['Medical Icons']
   source: fontawesome
   clazz: 'fa fa-medkit'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: fighter-jet
   id: fa-fighter-jet
@@ -3046,7 +3470,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-fighter-jet'
-  keywords: ''
+  keywords: 'jet plane,jet-propelled plane,airplane,aeroplane,plane'
+  noun: jet
 -
   name: beer
   id: fa-beer
@@ -3055,7 +3480,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-beer'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'H Square'
   id: fa-h-square
@@ -3064,7 +3490,8 @@
   categories: ['Medical Icons']
   source: fontawesome
   clazz: 'fa fa-h-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Plus Square'
   id: fa-plus-square
@@ -3073,7 +3500,8 @@
   categories: ['Medical Icons', 'Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-plus-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Angle Double Left'
   id: fa-angle-double-left
@@ -3082,7 +3510,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-angle-double-left'
-  keywords: ''
+  keywords: 'two-base hit,two-bagger,two-baser,base hit,safety'
+  noun: double
 -
   name: 'Angle Double Right'
   id: fa-angle-double-right
@@ -3091,7 +3520,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-angle-double-right'
-  keywords: ''
+  keywords: 'two-base hit,two-bagger,two-baser,base hit,safety'
+  noun: double
 -
   name: 'Angle Double Up'
   id: fa-angle-double-up
@@ -3100,7 +3530,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-angle-double-up'
-  keywords: ''
+  keywords: 'two-base hit,two-bagger,two-baser,base hit,safety'
+  noun: double
 -
   name: 'Angle Double Down'
   id: fa-angle-double-down
@@ -3109,7 +3540,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-angle-double-down'
-  keywords: ''
+  keywords: 'two-base hit,two-bagger,two-baser,base hit,safety'
+  noun: double
 -
   name: angle-left
   id: fa-angle-left
@@ -3118,7 +3550,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-angle-left'
-  keywords: ''
+  keywords: 'position,place'
+  noun: left
 -
   name: angle-right
   id: fa-angle-right
@@ -3127,7 +3560,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-angle-right'
-  keywords: ''
+  keywords: 'abstraction,abstract'
+  noun: right
 -
   name: angle-up
   id: fa-angle-up
@@ -3136,7 +3570,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-angle-up'
-  keywords: ''
+  keywords: ""
+  noun: up
 -
   name: angle-down
   id: fa-angle-down
@@ -3145,7 +3580,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-angle-down'
-  keywords: ''
+  keywords: 'down feather,feather,plume,plumage'
+  noun: down
 -
   name: Desktop
   id: fa-desktop
@@ -3154,7 +3590,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-desktop'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Laptop
   id: fa-laptop
@@ -3163,7 +3600,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-laptop'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: tablet
   id: fa-tablet
@@ -3172,7 +3610,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-tablet'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Mobile Phone'
   id: fa-mobile
@@ -3182,7 +3621,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-mobile'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Circle Outlined'
   id: fa-circle-o
@@ -3191,7 +3631,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-circle-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: quote-left
   id: fa-quote-left
@@ -3200,7 +3641,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-quote-left'
-  keywords: ''
+  keywords: 'position,place'
+  noun: left
 -
   name: quote-right
   id: fa-quote-right
@@ -3209,7 +3651,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-quote-right'
-  keywords: ''
+  keywords: 'abstraction,abstract'
+  noun: right
 -
   name: Spinner
   id: fa-spinner
@@ -3218,7 +3661,8 @@
   categories: ['Web Application Icons', 'Spinner Icons']
   source: fontawesome
   clazz: 'fa fa-spinner'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Circle
   id: fa-circle
@@ -3227,7 +3671,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-circle'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Reply
   id: fa-reply
@@ -3237,7 +3682,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-reply'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'GitHub Alt'
   id: fa-github-alt
@@ -3246,7 +3692,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-github-alt'
-  keywords: ''
+  keywords: 'elevation,EL,altitude,ALT,angular position'
+  noun: alt
 -
   name: 'Folder Outlined'
   id: fa-folder-o
@@ -3255,7 +3702,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-folder-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Folder Open Outlined'
   id: fa-folder-open-o
@@ -3264,7 +3712,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-folder-open-o'
-  keywords: ''
+  keywords: 'clear,area,country'
+  noun: open
 -
   name: 'Smile Outlined'
   id: fa-smile-o
@@ -3273,7 +3722,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-smile-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Frown Outlined'
   id: fa-frown-o
@@ -3282,7 +3732,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-frown-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Meh Outlined'
   id: fa-meh-o
@@ -3291,7 +3742,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-meh-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: Gamepad
   id: fa-gamepad
@@ -3300,7 +3752,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-gamepad'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Keyboard Outlined'
   id: fa-keyboard-o
@@ -3309,7 +3762,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-keyboard-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Flag Outlined'
   id: fa-flag-o
@@ -3318,7 +3772,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-flag-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: flag-checkered
   id: fa-flag-checkered
@@ -3327,7 +3782,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-flag-checkered'
-  keywords: ''
+  keywords: ""
+  noun: checkered
 -
   name: Terminal
   id: fa-terminal
@@ -3336,7 +3792,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-terminal'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Code
   id: fa-code
@@ -3345,7 +3802,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-code'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: reply-all
   id: fa-reply-all
@@ -3355,7 +3813,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-reply-all'
-  keywords: ''
+  keywords: ""
+  noun: all
 -
   name: 'Star Half Outlined'
   id: fa-star-half-o
@@ -3365,7 +3824,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-star-half-o'
-  keywords: ''
+  keywords: 'one-half,common fraction,simple fraction'
+  noun: half
 -
   name: location-arrow
   id: fa-location-arrow
@@ -3374,7 +3834,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-location-arrow'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   name: crop
   id: fa-crop
@@ -3383,7 +3844,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-crop'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: code-fork
   id: fa-code-fork
@@ -3392,7 +3854,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-code-fork'
-  keywords: ''
+  keywords: 'cutlery,eating utensil'
+  noun: fork
 -
   name: 'Chain Broken'
   id: fa-chain-broken
@@ -3402,7 +3865,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-chain-broken'
-  keywords: ''
+  keywords: ""
+  noun: broken
 -
   name: Question
   id: fa-question
@@ -3411,7 +3875,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-question'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Info
   id: fa-info
@@ -3420,7 +3885,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-info'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: exclamation
   id: fa-exclamation
@@ -3429,7 +3895,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-exclamation'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: superscript
   id: fa-superscript
@@ -3438,7 +3905,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-superscript'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: subscript
   id: fa-subscript
@@ -3447,7 +3915,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-subscript'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: eraser
   id: fa-eraser
@@ -3456,7 +3925,8 @@
   categories: ['Text Editor Icons', 'Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-eraser'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Puzzle Piece'
   id: fa-puzzle-piece
@@ -3465,7 +3935,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-puzzle-piece'
-  keywords: ''
+  keywords: 'part,portion'
+  noun: piece
 -
   name: microphone
   id: fa-microphone
@@ -3474,7 +3945,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-microphone'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Microphone Slash'
   id: fa-microphone-slash
@@ -3483,7 +3955,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-microphone-slash'
-  keywords: ''
+  keywords: 'cut,gash,slice,wound,lesion'
+  noun: slash
 -
   name: shield
   id: fa-shield
@@ -3492,7 +3965,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-shield'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: calendar-o
   id: fa-calendar-o
@@ -3501,7 +3975,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-calendar-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: fire-extinguisher
   id: fa-fire-extinguisher
@@ -3510,7 +3985,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-fire-extinguisher'
-  keywords: ''
+  keywords: 'fire extinguisher,asphyxiator,device'
+  noun: extinguisher
 -
   name: rocket
   id: fa-rocket
@@ -3519,7 +3995,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-rocket'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: MaxCDN
   id: fa-maxcdn
@@ -3528,7 +4005,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-maxcdn'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Chevron Circle Left'
   id: fa-chevron-circle-left
@@ -3537,7 +4015,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-chevron-circle-left'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Chevron Circle Right'
   id: fa-chevron-circle-right
@@ -3546,7 +4025,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-chevron-circle-right'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Chevron Circle Up'
   id: fa-chevron-circle-up
@@ -3555,7 +4035,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-chevron-circle-up'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Chevron Circle Down'
   id: fa-chevron-circle-down
@@ -3564,7 +4045,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-chevron-circle-down'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'HTML 5 Logo'
   id: fa-html5
@@ -3573,7 +4055,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-html5'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'CSS 3 Logo'
   id: fa-css3
@@ -3582,7 +4065,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-css3'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Anchor
   id: fa-anchor
@@ -3591,7 +4075,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-anchor'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Unlock Alt'
   id: fa-unlock-alt
@@ -3600,7 +4085,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-unlock-alt'
-  keywords: ''
+  keywords: 'elevation,EL,altitude,ALT,angular position'
+  noun: alt
 -
   name: Bullseye
   id: fa-bullseye
@@ -3609,7 +4095,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bullseye'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Ellipsis Horizontal'
   id: fa-ellipsis-h
@@ -3618,7 +4105,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-ellipsis-h'
-  keywords: ''
+  keywords: 'hydrogen,H,atomic number 1,chemical element,element,gas'
+  noun: h
 -
   name: 'Ellipsis Vertical'
   id: fa-ellipsis-v
@@ -3627,7 +4115,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-ellipsis-v'
-  keywords: ''
+  keywords: 'volt,V,potential unit'
+  noun: v
 -
   name: 'RSS Square'
   id: fa-rss-square
@@ -3636,7 +4125,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-rss-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Play Circle'
   id: fa-play-circle
@@ -3645,7 +4135,8 @@
   categories: ['Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-play-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: Ticket
   id: fa-ticket
@@ -3654,7 +4145,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-ticket'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Minus Square'
   id: fa-minus-square
@@ -3663,7 +4155,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-minus-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Minus Square Outlined'
   id: fa-minus-square-o
@@ -3672,7 +4165,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-minus-square-o'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Level Up'
   id: fa-level-up
@@ -3681,7 +4175,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-level-up'
-  keywords: ''
+  keywords: ""
+  noun: up
 -
   name: 'Level Down'
   id: fa-level-down
@@ -3690,7 +4185,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-level-down'
-  keywords: ''
+  keywords: 'down feather,feather,plume,plumage'
+  noun: down
 -
   name: 'Check Square'
   id: fa-check-square
@@ -3699,7 +4195,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-check-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Pencil Square'
   id: fa-pencil-square
@@ -3708,7 +4205,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-pencil-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'External Link Square'
   id: fa-external-link-square
@@ -3717,7 +4215,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-external-link-square'
-  keywords: ''
+  keywords: 'nexus,linkage'
+  noun: link
 -
   name: 'Share Square'
   id: fa-share-square
@@ -3726,7 +4225,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-share-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: Compass
   id: fa-compass
@@ -3735,7 +4235,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-compass'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Caret Square Outlined Down'
   id: fa-caret-square-o-down
@@ -3745,7 +4246,8 @@
   categories: ['Web Application Icons', 'Directional Icons']
   source: fontawesome
   clazz: 'fa fa-caret-square-o-down'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Caret Square Outlined Up'
   id: fa-caret-square-o-up
@@ -3755,7 +4257,8 @@
   categories: ['Web Application Icons', 'Directional Icons']
   source: fontawesome
   clazz: 'fa fa-caret-square-o-up'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Caret Square Outlined Right'
   id: fa-caret-square-o-right
@@ -3765,7 +4268,8 @@
   categories: ['Web Application Icons', 'Directional Icons']
   source: fontawesome
   clazz: 'fa fa-caret-square-o-right'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Euro (EUR)'
   id: fa-eur
@@ -3775,7 +4279,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-eur'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: GBP
   id: fa-gbp
@@ -3784,7 +4289,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-gbp'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'US Dollar'
   id: fa-usd
@@ -3794,7 +4300,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-usd'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Indian Rupee (INR)'
   id: fa-inr
@@ -3804,7 +4311,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-inr'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Japanese Yen (JPY)'
   id: fa-jpy
@@ -3814,7 +4322,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-jpy'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Russian Ruble (RUB)'
   id: fa-rub
@@ -3824,7 +4333,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-rub'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Korean Won (KRW)'
   id: fa-krw
@@ -3834,7 +4344,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-krw'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Bitcoin (BTC)'
   id: fa-btc
@@ -3844,7 +4355,8 @@
   categories: ['Currency Icons', 'Brand Icons']
   source: fontawesome
   clazz: 'fa fa-btc'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: File
   id: fa-file
@@ -3853,7 +4365,8 @@
   categories: ['Text Editor Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'File Text'
   id: fa-file-text
@@ -3862,7 +4375,8 @@
   categories: ['Text Editor Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-text'
-  keywords: ''
+  keywords: 'textual matter,matter'
+  noun: text
 -
   name: 'Sort Alpha Ascending'
   id: fa-sort-alpha-asc
@@ -3871,7 +4385,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort-alpha-asc'
-  keywords: ''
+  keywords: 'letter,letter of the alphabet,alphabetic character'
+  noun: alpha
 -
   name: 'Sort Alpha Descending'
   id: fa-sort-alpha-desc
@@ -3880,7 +4395,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort-alpha-desc'
-  keywords: ''
+  keywords: 'letter,letter of the alphabet,alphabetic character'
+  noun: alpha
 -
   name: 'Sort Amount Ascending'
   id: fa-sort-amount-asc
@@ -3889,7 +4405,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort-amount-asc'
-  keywords: ''
+  keywords: magnitude
+  noun: amount
 -
   name: 'Sort Amount Descending'
   id: fa-sort-amount-desc
@@ -3898,7 +4415,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort-amount-desc'
-  keywords: ''
+  keywords: magnitude
+  noun: amount
 -
   name: 'Sort Numeric Ascending'
   id: fa-sort-numeric-asc
@@ -3907,7 +4425,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort-numeric-asc'
-  keywords: ''
+  keywords: ""
+  noun: numeric
 -
   name: 'Sort Numeric Descending'
   id: fa-sort-numeric-desc
@@ -3916,7 +4435,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sort-numeric-desc'
-  keywords: ''
+  keywords: ""
+  noun: numeric
 -
   name: thumbs-up
   id: fa-thumbs-up
@@ -3925,7 +4445,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-thumbs-up'
-  keywords: ''
+  keywords: ""
+  noun: up
 -
   name: thumbs-down
   id: fa-thumbs-down
@@ -3934,7 +4455,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-thumbs-down'
-  keywords: ''
+  keywords: 'down feather,feather,plume,plumage'
+  noun: down
 -
   name: 'YouTube Square'
   id: fa-youtube-square
@@ -3943,7 +4465,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-youtube-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: YouTube
   id: fa-youtube
@@ -3952,7 +4475,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-youtube'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Xing
   id: fa-xing
@@ -3961,7 +4485,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-xing'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Xing Square'
   id: fa-xing-square
@@ -3970,7 +4495,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-xing-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'YouTube Play'
   id: fa-youtube-play
@@ -3979,7 +4505,8 @@
   categories: ['Brand Icons', 'Video Player Icons']
   source: fontawesome
   clazz: 'fa fa-youtube-play'
-  keywords: ''
+  keywords: 'drama,dramatic play,dramatic composition,dramatic work'
+  noun: play
 -
   name: Dropbox
   id: fa-dropbox
@@ -3988,7 +4515,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-dropbox'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Stack Overflow'
   id: fa-stack-overflow
@@ -3997,7 +4525,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-stack-overflow'
-  keywords: ''
+  keywords: 'flood,outpouring,flow,stream'
+  noun: overflow
 -
   name: Instagram
   id: fa-instagram
@@ -4006,7 +4535,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-instagram'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Flickr
   id: fa-flickr
@@ -4015,7 +4545,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-flickr'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: App.net
   id: fa-adn
@@ -4024,7 +4555,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-adn'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Bitbucket
   id: fa-bitbucket
@@ -4033,7 +4565,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-bitbucket'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Bitbucket Square'
   id: fa-bitbucket-square
@@ -4042,7 +4575,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-bitbucket-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: Tumblr
   id: fa-tumblr
@@ -4051,7 +4585,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-tumblr'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Tumblr Square'
   id: fa-tumblr-square
@@ -4060,7 +4595,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-tumblr-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Long Arrow Down'
   id: fa-long-arrow-down
@@ -4069,7 +4605,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-long-arrow-down'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   name: 'Long Arrow Up'
   id: fa-long-arrow-up
@@ -4078,7 +4615,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-long-arrow-up'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   name: 'Long Arrow Left'
   id: fa-long-arrow-left
@@ -4087,7 +4625,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-long-arrow-left'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   name: 'Long Arrow Right'
   id: fa-long-arrow-right
@@ -4096,7 +4635,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-long-arrow-right'
-  keywords: ''
+  keywords: 'pointer,mark'
+  noun: arrow
 -
   name: Apple
   id: fa-apple
@@ -4105,7 +4645,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-apple'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Windows
   id: fa-windows
@@ -4114,7 +4655,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-windows'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Android
   id: fa-android
@@ -4123,7 +4665,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-android'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Linux
   id: fa-linux
@@ -4132,7 +4675,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-linux'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Dribbble
   id: fa-dribbble
@@ -4141,7 +4685,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-dribbble'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Skype
   id: fa-skype
@@ -4150,7 +4695,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-skype'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Foursquare
   id: fa-foursquare
@@ -4159,7 +4705,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-foursquare'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Trello
   id: fa-trello
@@ -4168,7 +4715,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-trello'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Female
   id: fa-female
@@ -4177,7 +4725,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-female'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Male
   id: fa-male
@@ -4186,7 +4735,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-male'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Gittip
   id: fa-gittip
@@ -4195,7 +4745,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-gittip'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Sun Outlined'
   id: fa-sun-o
@@ -4204,7 +4755,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sun-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Moon Outlined'
   id: fa-moon-o
@@ -4213,7 +4765,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-moon-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: Archive
   id: fa-archive
@@ -4222,7 +4775,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-archive'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Bug
   id: fa-bug
@@ -4231,7 +4785,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bug'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: VK
   id: fa-vk
@@ -4240,7 +4795,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-vk'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Weibo
   id: fa-weibo
@@ -4249,7 +4805,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-weibo'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Renren
   id: fa-renren
@@ -4258,7 +4815,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-renren'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Pagelines
   id: fa-pagelines
@@ -4267,7 +4825,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-pagelines'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Stack Exchange'
   id: fa-stack-exchange
@@ -4276,7 +4835,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-stack-exchange'
-  keywords: ''
+  keywords: 'chemical phenomenon'
+  noun: exchange
 -
   name: 'Arrow Circle Outlined Right'
   id: fa-arrow-circle-o-right
@@ -4285,7 +4845,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-circle-o-right'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Arrow Circle Outlined Left'
   id: fa-arrow-circle-o-left
@@ -4294,7 +4855,8 @@
   categories: ['Directional Icons']
   source: fontawesome
   clazz: 'fa fa-arrow-circle-o-left'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'Caret Square Outlined Left'
   id: fa-caret-square-o-left
@@ -4304,7 +4866,8 @@
   categories: ['Web Application Icons', 'Directional Icons']
   source: fontawesome
   clazz: 'fa fa-caret-square-o-left'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Dot Circle O'
   id: fa-dot-circle-o
@@ -4313,7 +4876,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-dot-circle-o'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: Wheelchair
   id: fa-wheelchair
@@ -4322,7 +4886,8 @@
   categories: ['Web Application Icons', 'Medical Icons']
   source: fontawesome
   clazz: 'fa fa-wheelchair'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Vimeo Square'
   id: fa-vimeo-square
@@ -4331,7 +4896,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-vimeo-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Turkish Lira (TRY)'
   id: fa-try
@@ -4341,7 +4907,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-try'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Plus Square Outlined'
   id: fa-plus-square-o
@@ -4350,7 +4917,8 @@
   categories: ['Web Application Icons', 'Form Control Icons']
   source: fontawesome
   clazz: 'fa fa-plus-square-o'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Space Shuttle'
   id: fa-space-shuttle
@@ -4359,7 +4927,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-space-shuttle'
-  keywords: ''
+  keywords: 'shuttlecock,bird,birdie,badminton equipment'
+  noun: shuttle
 -
   name: 'Slack Logo'
   id: fa-slack
@@ -4368,7 +4937,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-slack'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Envelope Square'
   id: fa-envelope-square
@@ -4377,7 +4947,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-envelope-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Wordpress Logo'
   id: fa-wordpress
@@ -4386,7 +4957,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-wordpress'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: OpenID
   id: fa-openid
@@ -4395,7 +4967,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-openid'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: University
   id: fa-university
@@ -4405,7 +4978,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-university'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Graduation Cap'
   id: fa-graduation-cap
@@ -4415,7 +4989,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-graduation-cap'
-  keywords: ''
+  keywords: 'headdress,headgear'
+  noun: cap
 -
   name: 'Yahoo Logo'
   id: fa-yahoo
@@ -4424,7 +4999,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-yahoo'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Google Logo'
   id: fa-google
@@ -4433,7 +5009,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-google'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'reddit Logo'
   id: fa-reddit
@@ -4442,7 +5019,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-reddit'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'reddit Square'
   id: fa-reddit-square
@@ -4451,7 +5029,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-reddit-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'StumbleUpon Circle'
   id: fa-stumbleupon-circle
@@ -4460,7 +5039,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-stumbleupon-circle'
-  keywords: ''
+  keywords: 'ellipse,oval'
+  noun: circle
 -
   name: 'StumbleUpon Logo'
   id: fa-stumbleupon
@@ -4469,7 +5049,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-stumbleupon'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Delicious Logo'
   id: fa-delicious
@@ -4478,7 +5059,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-delicious'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Digg Logo'
   id: fa-digg
@@ -4487,7 +5069,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-digg'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Pied Piper Logo'
   id: fa-pied-piper
@@ -4496,7 +5079,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-pied-piper'
-  keywords: ''
+  keywords: 'bagpiper,musician,instrumentalist,player'
+  noun: piper
 -
   name: 'Pied Piper Alternate Logo'
   id: fa-pied-piper-alt
@@ -4505,7 +5089,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-pied-piper-alt'
-  keywords: ''
+  keywords: 'bagpiper,musician,instrumentalist,player'
+  noun: piper
 -
   name: 'Drupal Logo'
   id: fa-drupal
@@ -4514,7 +5099,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-drupal'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Joomla Logo'
   id: fa-joomla
@@ -4523,7 +5109,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-joomla'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Language
   id: fa-language
@@ -4532,7 +5119,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-language'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Fax
   id: fa-fax
@@ -4541,7 +5129,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-fax'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Building
   id: fa-building
@@ -4550,7 +5139,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-building'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Child
   id: fa-child
@@ -4559,7 +5149,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-child'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Paw
   id: fa-paw
@@ -4568,7 +5159,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-paw'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: spoon
   id: fa-spoon
@@ -4577,7 +5169,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-spoon'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Cube
   id: fa-cube
@@ -4586,7 +5179,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-cube'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Cubes
   id: fa-cubes
@@ -4595,7 +5189,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-cubes'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Behance
   id: fa-behance
@@ -4604,7 +5199,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-behance'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Behance Square'
   id: fa-behance-square
@@ -4613,7 +5209,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-behance-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: Steam
   id: fa-steam
@@ -4622,7 +5219,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-steam'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Steam Square'
   id: fa-steam-square
@@ -4631,7 +5229,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-steam-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: Recycle
   id: fa-recycle
@@ -4640,7 +5239,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-recycle'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Car
   id: fa-car
@@ -4650,7 +5250,8 @@
   aliases: [automobile]
   source: fontawesome
   clazz: 'fa fa-car'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Taxi
   id: fa-taxi
@@ -4660,7 +5261,8 @@
   aliases: [cab]
   source: fontawesome
   clazz: 'fa fa-taxi'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Tree
   id: fa-tree
@@ -4669,7 +5271,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-tree'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Spotify
   id: fa-spotify
@@ -4678,7 +5281,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-spotify'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: deviantART
   id: fa-deviantart
@@ -4687,7 +5291,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-deviantart'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: SoundCloud
   id: fa-soundcloud
@@ -4696,7 +5301,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-soundcloud'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Database
   id: fa-database
@@ -4705,7 +5311,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-database'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'PDF File Outlined'
   id: fa-file-pdf-o
@@ -4714,7 +5321,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-pdf-o'
-  keywords: ''
+  keywords: ""
+  noun: pdf
 -
   name: 'Word File Outlined'
   id: fa-file-word-o
@@ -4723,7 +5331,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-word-o'
-  keywords: ''
+  keywords: 'language unit,linguistic unit'
+  noun: word
 -
   name: 'Excel File Outlined'
   id: fa-file-excel-o
@@ -4732,7 +5341,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-excel-o'
-  keywords: ''
+  keywords: ""
+  noun: excel
 -
   name: 'Powerpoint File Outlined'
   id: fa-file-powerpoint-o
@@ -4741,7 +5351,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-powerpoint-o'
-  keywords: ''
+  keywords: ""
+  noun: powerpoint
 -
   name: 'Image File Outlined'
   id: fa-file-image-o
@@ -4751,7 +5362,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-image-o'
-  keywords: ''
+  keywords: 'mental image,representation,mental representation,internal representation'
+  noun: image
 -
   name: 'Archive File Outlined'
   id: fa-file-archive-o
@@ -4761,7 +5373,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-archive-o'
-  keywords: ''
+  keywords: 'depository,deposit,depositary,repository'
+  noun: archive
 -
   name: 'Audio File Outlined'
   id: fa-file-audio-o
@@ -4771,7 +5384,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-audio-o'
-  keywords: ''
+  keywords: 'sound,auditory communication'
+  noun: audio
 -
   name: 'Video File Outlined'
   id: fa-file-video-o
@@ -4781,7 +5395,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-video-o'
-  keywords: ''
+  keywords: 'picture,visual communication'
+  noun: video
 -
   name: 'Code File Outlined'
   id: fa-file-code-o
@@ -4790,7 +5405,8 @@
   categories: ['Web Application Icons', 'File Type Icons']
   source: fontawesome
   clazz: 'fa fa-file-code-o'
-  keywords: ''
+  keywords: 'codification,written communication,written language'
+  noun: code
 -
   name: Vine
   id: fa-vine
@@ -4799,7 +5415,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-vine'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Codepen
   id: fa-codepen
@@ -4808,7 +5425,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-codepen'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: jsFiddle
   id: fa-jsfiddle
@@ -4817,7 +5435,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-jsfiddle'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Life Ring'
   id: fa-life-ring
@@ -4827,7 +5446,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-life-ring'
-  keywords: ''
+  keywords: sound
+  noun: ring
 -
   name: 'Circle Outlined Notched'
   id: fa-circle-o-notch
@@ -4836,7 +5456,8 @@
   categories: ['Web Application Icons', 'Spinner Icons']
   source: fontawesome
   clazz: 'fa fa-circle-o-notch'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: 'Rebel Alliance'
   id: fa-rebel
@@ -4846,7 +5467,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-rebel'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Galactic Empire'
   id: fa-empire
@@ -4856,7 +5478,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-empire'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Git Square'
   id: fa-git-square
@@ -4865,7 +5488,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-git-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: Git
   id: fa-git
@@ -4874,7 +5498,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-git'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Hacker News'
   id: fa-hacker-news
@@ -4883,7 +5508,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-hacker-news'
-  keywords: ''
+  keywords: 'intelligence,tidings,word,information,info'
+  noun: news
 -
   name: 'Tencent Weibo'
   id: fa-tencent-weibo
@@ -4892,7 +5518,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-tencent-weibo'
-  keywords: ''
+  keywords: ""
+  noun: weibo
 -
   name: QQ
   id: fa-qq
@@ -4901,7 +5528,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-qq'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Weixin (WeChat)'
   id: fa-weixin
@@ -4911,7 +5539,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-weixin'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Paper Plane'
   id: fa-paper-plane
@@ -4921,7 +5550,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-paper-plane'
-  keywords: ''
+  keywords: 'airplane,aeroplane,heavier-than-air craft'
+  noun: plane
 -
   name: 'Paper Plane Outlined'
   id: fa-paper-plane-o
@@ -4931,7 +5561,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-paper-plane-o'
-  keywords: ''
+  keywords: 'airplane,aeroplane,heavier-than-air craft'
+  noun: plane
 -
   name: History
   id: fa-history
@@ -4940,7 +5571,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-history'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Circle Outlined Thin'
   id: fa-circle-thin
@@ -4949,7 +5581,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-circle-thin'
-  keywords: ''
+  keywords: ""
+  noun: thin
 -
   name: header
   id: fa-header
@@ -4958,7 +5591,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-header'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: paragraph
   id: fa-paragraph
@@ -4967,7 +5601,8 @@
   categories: ['Text Editor Icons']
   source: fontawesome
   clazz: 'fa fa-paragraph'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Sliders
   id: fa-sliders
@@ -4976,7 +5611,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-sliders'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Share Alt'
   id: fa-share-alt
@@ -4985,7 +5621,8 @@
   categories: ['Web Application Icons', 'Brand Icons']
   source: fontawesome
   clazz: 'fa fa-share-alt'
-  keywords: ''
+  keywords: 'elevation,EL,altitude,ALT,angular position'
+  noun: alt
 -
   name: 'Share Alt Square'
   id: fa-share-alt-square
@@ -4994,7 +5631,8 @@
   categories: ['Web Application Icons', 'Brand Icons']
   source: fontawesome
   clazz: 'fa fa-share-alt-square'
-  keywords: ''
+  keywords: 'elevation,EL,altitude,ALT,angular position'
+  noun: alt
 -
   name: Bomb
   id: fa-bomb
@@ -5003,7 +5641,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bomb'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Futbol Outlined'
   id: fa-futbol-o
@@ -5013,7 +5652,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-futbol-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: TTY
   id: fa-tty
@@ -5022,7 +5662,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-tty'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Binoculars
   id: fa-binoculars
@@ -5031,7 +5672,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-binoculars'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Plug
   id: fa-plug
@@ -5040,7 +5682,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-plug'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Slideshare
   id: fa-slideshare
@@ -5049,7 +5692,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-slideshare'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Twitch
   id: fa-twitch
@@ -5058,7 +5702,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-twitch'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Yelp
   id: fa-yelp
@@ -5067,7 +5712,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-yelp'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Newspaper Outlined'
   id: fa-newspaper-o
@@ -5076,7 +5722,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-newspaper-o'
-  keywords: ''
+  keywords: 'oxygen,O,atomic number 8,chemical element,element,gas'
+  noun: o
 -
   name: WiFi
   id: fa-wifi
@@ -5085,7 +5732,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-wifi'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Calculator
   id: fa-calculator
@@ -5094,7 +5742,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-calculator'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Paypal
   id: fa-paypal
@@ -5103,7 +5752,8 @@
   categories: ['Brand Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-paypal'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Goole Wallet'
   id: fa-google-wallet
@@ -5112,7 +5762,8 @@
   categories: ['Brand Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-google-wallet'
-  keywords: ''
+  keywords: 'billfold,notecase,pocketbook,case'
+  noun: wallet
 -
   name: 'Visa Credit Card'
   id: fa-cc-visa
@@ -5121,7 +5772,8 @@
   categories: ['Brand Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-cc-visa'
-  keywords: ''
+  keywords: 'sanction,countenance,endorsement,indorsement,warrant,imprimatur'
+  noun: visa
 -
   name: 'MasterCard Credit Card'
   id: fa-cc-mastercard
@@ -5130,7 +5782,8 @@
   categories: ['Brand Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-cc-mastercard'
-  keywords: ''
+  keywords: ""
+  noun: mastercard
 -
   name: 'Discover Credit Card'
   id: fa-cc-discover
@@ -5139,7 +5792,8 @@
   categories: ['Brand Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-cc-discover'
-  keywords: ''
+  keywords: ""
+  noun: discover
 -
   name: 'American Express Credit Card'
   id: fa-cc-amex
@@ -5148,7 +5802,8 @@
   categories: ['Brand Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-cc-amex'
-  keywords: ''
+  keywords: 'American Stock Exchange,AMEX,Curb,stock exchange,stock market,securities market'
+  noun: amex
 -
   name: 'Paypal Credit Card'
   id: fa-cc-paypal
@@ -5157,7 +5812,8 @@
   categories: ['Brand Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-cc-paypal'
-  keywords: ''
+  keywords: ""
+  noun: paypal
 -
   name: 'Stripe Credit Card'
   id: fa-cc-stripe
@@ -5166,7 +5822,8 @@
   categories: ['Brand Icons', 'Payment Icons']
   source: fontawesome
   clazz: 'fa fa-cc-stripe'
-  keywords: ''
+  keywords: 'band,banding,adornment'
+  noun: stripe
 -
   name: 'Bell Slash'
   id: fa-bell-slash
@@ -5175,7 +5832,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bell-slash'
-  keywords: ''
+  keywords: 'cut,gash,slice,wound,lesion'
+  noun: slash
 -
   name: 'Bell Slash Outlined'
   id: fa-bell-slash-o
@@ -5184,7 +5842,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bell-slash-o'
-  keywords: ''
+  keywords: 'cut,gash,slice,wound,lesion'
+  noun: slash
 -
   name: Trash
   id: fa-trash
@@ -5193,7 +5852,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-trash'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Copyright
   id: fa-copyright
@@ -5202,7 +5862,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-copyright'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: At
   id: fa-at
@@ -5211,7 +5872,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-at'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Eyedropper
   id: fa-eyedropper
@@ -5220,7 +5882,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-eyedropper'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Paint Brush'
   id: fa-paint-brush
@@ -5229,7 +5892,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-paint-brush'
-  keywords: ''
+  keywords: 'brushwood,coppice,copse,thicket,vegetation,flora,botany'
+  noun: brush
 -
   name: 'Birthday Cake'
   id: fa-birthday-cake
@@ -5238,7 +5902,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-birthday-cake'
-  keywords: ''
+  keywords: 'bar,block'
+  noun: cake
 -
   name: 'Area Chart'
   id: fa-area-chart
@@ -5247,7 +5912,8 @@
   categories: ['Web Application Icons', 'Chart Icons']
   source: fontawesome
   clazz: 'fa fa-area-chart'
-  keywords: ''
+  keywords: 'visual communication'
+  noun: chart
 -
   name: 'Pie Chart'
   id: fa-pie-chart
@@ -5256,7 +5922,8 @@
   categories: ['Web Application Icons', 'Chart Icons']
   source: fontawesome
   clazz: 'fa fa-pie-chart'
-  keywords: ''
+  keywords: 'visual communication'
+  noun: chart
 -
   name: 'Line Chart'
   id: fa-line-chart
@@ -5265,7 +5932,8 @@
   categories: ['Web Application Icons', 'Chart Icons']
   source: fontawesome
   clazz: 'fa fa-line-chart'
-  keywords: ''
+  keywords: 'visual communication'
+  noun: chart
 -
   name: last.fm
   id: fa-lastfm
@@ -5274,7 +5942,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-lastfm'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'last.fm Square'
   id: fa-lastfm-square
@@ -5283,7 +5952,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-lastfm-square'
-  keywords: ''
+  keywords: 'foursquare,rectangle,regular polygon'
+  noun: square
 -
   name: 'Toggle Off'
   id: fa-toggle-off
@@ -5292,7 +5962,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-toggle-off'
-  keywords: ''
+  keywords: ""
+  noun: off
 -
   name: 'Toggle On'
   id: fa-toggle-on
@@ -5301,7 +5972,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-toggle-on'
-  keywords: ''
+  keywords: ""
+  noun: on
 -
   name: Bicycle
   id: fa-bicycle
@@ -5310,7 +5982,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bicycle'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: Bus
   id: fa-bus
@@ -5319,7 +5992,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-bus'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: ioxhost
   id: fa-ioxhost
@@ -5329,7 +6003,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-ioxhost'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: AngelList
   id: fa-angellist
@@ -5338,7 +6013,8 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-angellist'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Closed Captions'
   id: fa-cc
@@ -5347,7 +6023,8 @@
   categories: ['Web Application Icons']
   source: fontawesome
   clazz: 'fa fa-cc'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: 'Shekel (ILS)'
   id: fa-ils
@@ -5357,7 +6034,8 @@
   categories: ['Currency Icons']
   source: fontawesome
   clazz: 'fa fa-ils'
-  keywords: ''
+  keywords: ""
+  noun: null
 -
   name: meanpath
   id: fa-meanpath
@@ -5367,4 +6045,5 @@
   categories: ['Brand Icons']
   source: fontawesome
   clazz: 'fa fa-meanpath'
-  keywords: ''
+  keywords: ""
+  noun: null
