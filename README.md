@@ -11,9 +11,13 @@ To find suitable glyphicons/fontawesome icons, I often need to guess-search icon
 
 I've intended to build this as a front-end-only solution and find the chance to play with Backbone JS (as oppose to AngularJS - time to learn something new). Code's ugly and should be refactored in the future, but hey it's working and should start providing values!
 
+Credits
+============
+Thanks for the synonyms API provided by http://thesaurus.altervista.org - it helped in providing a good start.
+
 Contribute
 ============
-There are nearly 700 icons at the moment and it's going to take time to add/update keywords for each.
+Although the keywords are constructed with synoynms, they are not exactly accurate as there's no context of usage available. There are nearly 700 icons at the moment and it's going to take time to add/update contextualized keywords for each.
 
 You can help by:
 
