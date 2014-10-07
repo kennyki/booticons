@@ -28,6 +28,7 @@ module.exports = function(grunt) {
     }
   });
 
+  // TODO: modularize the processes
   grunt.registerMultiTask("booticons", "Download, format and aggregate icon data", function() {
     var done = this.async();
     var config = this.data;
@@ -35,14 +36,44 @@ module.exports = function(grunt) {
     var destFile = config.destFile;
     var thesaurusKey = config.thesaurusKey;
 
-    // TODO: upgrade icons (check addition/removal and merge) gracefully
-    if (fs.existsSync(destFile)) {
-      grunt.log.error("Icons data has been generated. Please update the content in ./" + destFile);
-      // fail the task
-      return done(false);
-    }
-
     var promises = [];
+
+    var existingIconsMap = {};
+
+    if (fs.existsSync(destFile)) {
+      grunt.log.writeln("Found existing icons data");
+
+      var existingIconsDeferred = Q.defer();
+
+      // include this as pre-requisites as well
+      promises.push(existingIconsDeferred.promise);
+      
+      fs.readFile(destFile, {encoding: "utf8"}, function(error, content) {
+        if (error) {
+          // stop everything
+          return existingIconsDeferred.reject(error);
+        }
+
+        // start mapping
+        var existingIcons = YAML.parse(content);
+
+        console.log("Found existing icons count: " + existingIcons.length);
+
+        existingIconsMap = existingIcons.reduce(function(map, icon) {
+          map[icon.id] = icon;
+
+          // ease the process later
+          icon.keywordsMap = icon.keywords.split(",").reduce(function(map, keyword) {
+            map[keyword] = true;
+            return map;
+          }, {});
+
+          return map;
+        }, existingIconsMap);
+
+        existingIconsDeferred.resolve(existingIconsMap);
+      });
+    }
 
     Object.keys(resources).forEach(function(iconSet) {
       var url = resources[iconSet];
@@ -107,8 +138,8 @@ module.exports = function(grunt) {
           };
         });
         var formattedFontawesome = fontawesome.icons.map(function(icon) {
-          // it's always the 2nd
-          var noun = icon.id.split("-")[1];
+          // it's always the 1st
+          var noun = icon.id.split("-")[0];
 
           // for later use
           nouns[noun] = true;
@@ -187,8 +218,8 @@ module.exports = function(grunt) {
                       }
                     }
 
-                    // we want CSV
-                    synonyms[request.noun] = result = synonymList.join(",");
+                    // we'll convert to CSV later
+                    synonyms[request.noun] = result = synonymList;
 
                     return true;
                   }
@@ -217,7 +248,22 @@ module.exports = function(grunt) {
         return Q.all(synonymPromises).then(function() {
           // we wanna chain with icons (with synonyms)
           icons.forEach(function(icon) {
-            icon.keywords = synonyms[icon.noun] || icon.keywords;
+            var keywordList = synonyms[icon.noun] || [];
+            var existingIcon = existingIconsMap[icon.id];
+
+            if (existingIcon) {
+              // aggregate
+              Object.keys(existingIcon.keywordsMap).forEach(function(keyword) {
+                if (keywordList.indexOf(keyword) == -1) {
+                  keywordList.push(keyword);
+                }
+              });
+            }
+
+            // turn into CSV
+            icon.keywords = keywordList.join(",");
+
+            grunt.log.writeln("Aggregated synonyms of noun " + icon.noun + ": " + icon.keywords);
           });
 
           return icons;
@@ -227,6 +273,7 @@ module.exports = function(grunt) {
       function success(icons) {
         grunt.log.writeln("Found " + icons.length + " icons. Writing result to " + destFile);
 
+        // overwrite any
         fs.writeFile(destFile, YAML.stringify(icons, 2, 2), function(error) {
           if (error) {
             grunt.log.error(error);
